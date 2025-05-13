@@ -2,6 +2,10 @@ id_asignatura,nombre_asignatura,departamento,creditos
 1,Matemáticas,Ciencias,6
 2,Física,Ciencias,5
 3,Historia,Humanidades,4
-4,Lengua Española,Humanidades,5
-5,Informática,Ingeniería,6
+4,Lengua Española,Humanidades,-1
+5,Informática,,100
 6,Biología,Ciencias,5
+7,Química,Ciencias,5
+8,Economía,Ciencias Sociales,4
+9,Filosofía,Humanidades,4
+10,,Idiomas,5
