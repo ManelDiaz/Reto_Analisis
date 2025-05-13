@@ -1,1001 +1,1001 @@
 id_estudiante,nombre,apellido,edad,sexo,ciudad,fecha_registro
-1,Pacífica,,25.0,M,Santa Cruz de Tenerife,2025-04-13
-2,,Zamora,94.0,M,Jaén,2024-09-15
-3,Carina,Llorens,18.0,M,Guipúzcoa,2022-11-17
-4,Juan Manuel,Salvador,20.0,F,Asturias,2025-01-18
-5,Armida,Sanz,30.0,1,Toledo,2025-01-31
-6,Pelayo,Benavent,19.0,F,Valencia,2024-09-05
-7,Brunilda,Salazar,29.0,F,Badajoz,2022-09-26
-8,Leonardo,Calatayud,23.0,M,Valladolid,2022-10-27
-9,Trinidad,Fábregas,39.0,M,Castellón,1996-09-13
-10,Rafa,,36.0,F,Córdoba,2024-09-05
-11,Petrona,Ferreras,22.0,F,Zaragoza,2024-10-10
-12,Alejandra,Vendrell,22.0,M,Madrid,2024-10-02
-13,Lourdes,Palomares,37.0,,Valladolid,2022-11-09
-14,Fortunato,Iborra,39.0,F,Barcelona,2023-04-25
-15,César,Torrens,,M,Cantabria,2024-07-12
-16,Gabriel,Pinto,23.0,M,Madrid,2023-03-08
-17,Mohamed,Alcolea,27.0,M,Tarragona,2024-04-17
-18,,Madrigal,88.0,M,La Rioja,2022-09-07
-19,Domitila,Pol,40.0,F,Jaén,2022-07-28
-20,Pilar,Cózar,25.0,F,,2023-01-23
-21,Samuel,,19.0,M,Cáceres,
-22,Demetrio,Noguera,36.0,M,La Rioja,2023-04-20
-23,Arsenio,,31.0,M,Cádiz,2023-05-29
-24,,Ruano,21.0,M,Almería,2022-06-30
-25,Beatriz,Blanes,20.0,M,,2025-01-22
-26,Edmundo,Manzano,25.0,F,Almería,2023-10-21
-27,Brunilda,Roda,7.0,F,Guadalajara,2023-09-23
-28,Rosario,Corbacho,28.0,,Segovia,2023-12-04
-29,Ricarda,Pascual,84.0,X,Álava,2022-12-17
-30,Amador,Zapata,106.0,F,Salamanca,2024-09-24
-31,Herminio,Cuervo,39.0,F,Burgos,2023-12-21
-32,,Lamas,21.0,X,Zaragoza,2024-08-01
-33,Amador,,27.0,F,Toledo,2022-11-18
-34,Severino,,27.0,M,Pontevedra,2023-09-12
-35,Amílcar,Sosa,26.0,M,Castellón,2023-08-27
-36,Abril,Bermudez,19.0,,Baleares,2004-06-17
-37,Azahar,Aguado,32.0,F,Navarra,2025-03-18
-38,Felix,Gutierrez,19.0,M,Madrid,1999-07-09
-39,Bárbara,Nieto,29.0,M,Zamora,2024-08-19
-40,Marcelo,Bárcena,22.0,M,Las Palmas,2022-08-25
-41,Apolonia,Madrid,106.0,M,Ourense,2024-03-09
-42,Tristán,Hoz,25.0,F,Guipúzcoa,2023-07-09
-43,Isaura,Ortega,30.0,M,Cádiz,2022-08-15
-44,Jose Antonio,Abad,35.0,M,Guadalajara,2024-08-24
-45,Marina,Castejón,21.0,F,Albacete,2023-04-15
-46,Isabela,Vara,36.0,M,Las Palmas,
-47,Josefa,,28.0,M,Salamanca,2023-07-28
-48,Pedro,Diez,27.0,M,Asturias,2023-05-30
-49,Juan Luis,Gálvez,27.0,M,Santa Cruz de Tenerife,2023-12-30
-50,Diego,Ruiz,32.0,M,Almería,2023-12-23
-51,Sosimo,Andreu,27.0,F,,2024-03-12
-52,Ceferino,Gálvez,22.0,X,León,2024-04-19
-53,Narciso,Mascaró,36.0,F,Guadalajara,2022-09-06
-54,Marcelino,,21.0,M,Teruel,2023-01-17
-55,Cristina,,21.0,F,La Rioja,2023-05-18
-56,Anastasia,Osorio,37.0,F,Huesca,2023-04-09
-57,Nando,Feijoo,26.0,F,Vizcaya,2022-07-26
-58,Graciano,Cruz,4.0,M,Girona,2023-02-15
-59,Camilo,Francisco,101.0,M,Sevilla,2022-07-29
-60,Alcides,Duran,36.0,M,Guadalajara,2023-02-17
-61,Josefa,Sanz,35.0,M,Córdoba,2023-12-31
-62,Horacio,Roselló,30.0,F,Córdoba,2023-02-24
-63,Macarena,Chaves,39.0,,Cádiz,2023-12-26
-64,,Calzada,28.0,F,Alicante,2024-01-08
-65,Abilio,Avilés,35.0,1,Palencia,
-66,Candelario,Llopis,18.0,M,Lleida,2024-10-14
-67,Maristela,Fonseca,29.0,M,Baleares,2023-12-15
-68,María,Riquelme,36.0,F,Álava,2023-09-27
-69,,Feliu,21.0,F,Vizcaya,2022-09-12
-70,Azeneth,Merino,29.0,F,,2022-06-01
-71,,Noguera,31.0,F,La Rioja,2024-10-29
-72,Amparo,Adán,35.0,F,Ourense,2024-03-04
-73,Reina,Cerdá,20.0,F,La Coruña,2022-12-11
-74,Jose Antonio,Calvo,5.0,F,Cantabria,2022-06-05
-75,José,Céspedes,,F,Segovia,2023-08-06
-76,Consuela,Villalobos,18.0,X,Lugo,2024-02-09
-77,Dionisia,Burgos,29.0,F,Valladolid,2024-04-01
-78,Dani,Salvà,28.0,M,Ávila,2023-01-03
-79,Octavia,Padilla,37.0,M,Ciudad,2024-12-25
-80,Inocencio,Baquero,22.0,M,Barcelona,2024-07-26
-81,Julie,Boix,18.0,F,Córdoba,2024-07-02
-82,Imelda,Arnaiz,21.0,F,Huelva,2023-11-27
-83,Encarnación,Campoy,27.0,X,Badajoz,2022-12-16
-84,Priscila,Abellán,34.0,F,Salamanca,2024-12-22
-85,Bartolomé,Barriga,93.0,M,Salamanca,2025-03-26
-86,,,37.0,M,Cádiz,2022-05-27
-87,Marta,Sotelo,26.0,M,Valencia,2024-08-07
-88,Ignacia,Duarte,20.0,1,Zaragoza,2025-04-25
-89,Victoria,Rovira,27.0,F,Lleida,2024-07-12
-90,,,28.0,M,,2024-06-28
-91,Esperanza,Company,39.0,M,Toledo,2023-12-23
-92,Rita,Llobet,36.0,F,Barcelona,2023-05-06
-93,Gonzalo,Campillo,23.0,F,Almería,2023-06-19
-94,Evita,Julián,28.0,M,Albacete,2025-04-08
-95,Marina,Luna,35.0,M,Barcelona,2025-03-18
-96,Gerardo,Pou,24.0,M,Lugo,2025-03-20
-97,Hermenegildo,Serra,37.0,M,Salamanca,1996-05-10
-98,,Diego,32.0,M,Navarra,2023-05-20
-99,Elvira,Figueras,33.0,M,Segovia,2024-09-09
-100,Delia,Castilla,26.0,F,Asturias,2023-03-11
-101,Abel,,36.0,F,Cantabria,2024-01-06
-102,Marcia,Campos,30.0,F,Vizcaya,2023-06-26
-103,Estrella,Navarro,31.0,,Albacete,2023-11-22
-104,Reina,Camino,22.0,M,Albacete,2024-10-23
-105,Encarna,Hernández,21.0,F,,2024-10-08
-106,Pío,Arias,101.0,M,Jaén,2024-10-13
-107,Eli,Ferrero,40.0,F,Alicante,
-108,Eulalia,Exposito,25.0,F,Cáceres,2023-01-26
-109,Marcio,Muro,27.0,M,Murcia,1995-05-29
-110,Mauricio,Canales,36.0,M,Sevilla,2001-11-09
-111,Aureliano,Coello,22.0,F,Álava,2024-01-17
-112,Cruz,Fiol,35.0,F,Badajoz,2025-04-10
-113,Fabio,Garrido,32.0,M,Cáceres,2024-10-19
-114,Gaspar,Conesa,27.0,F,,2023-05-27
-115,Moisés,,19.0,F,Baleares,2024-06-21
-116,Fabián,Mendez,25.0,F,Cádiz,2024-01-17
-117,Ricarda,Mármol,38.0,F,Cuenca,2002-06-21
-118,Manu,,31.0,M,Teruel,2024-10-29
-119,Itziar,Parejo,23.0,F,Almería,2024-10-22
-120,Reyes,Salinas,20.0,M,Valladolid,2024-04-11
-121,Gala,Iniesta,29.0,,,2024-08-16
-122,Ciriaco,Guillen,36.0,F,Valladolid,2022-09-22
-123,,Fábregas,37.0,M,Ávila,2023-01-02
-124,José Antonio,Lucas,19.0,F,Cádiz,2022-06-15
-125,Olegario,Infante,29.0,F,Cuenca,2022-09-12
-126,Herberto,Rosell,37.0,F,,2022-12-01
-127,Mayte,Alvarez,21.0,F,Ceuta,2023-01-09
-128,Paulino,Cáceres,21.0,F,,2022-11-07
-129,Encarnación,Lobo,,M,,2025-04-12
-130,Toni,Galiano,28.0,M,Almería,2022-06-03
-131,Teodosio,Agustín,21.0,M,Badajoz,2023-12-24
-132,Tadeo,Ramis,,M,Las Palmas,2025-04-03
-133,Bernabé,Roma,34.0,M,Baleares,2024-03-05
-134,Miguel,Noriega,18.0,,Cáceres,2024-01-18
-135,Ambrosio,Saez,20.0,M,,2023-07-25
-136,Mar,Jerez,37.0,F,Almería,2024-10-24
-137,Aitana,Álvaro,35.0,M,Segovia,2023-02-11
-138,Ignacia,Puente,21.0,F,Teruel,2023-03-25
-139,Manola,Milla,-3.0,1,Sevilla,2023-04-29
-140,Espiridión,Cornejo,21.0,F,Valladolid,2023-08-04
-141,Rosalina,Ugarte,36.0,M,La Rioja,2022-05-26
-142,Celso,Navarrete,26.0,F,Las Palmas,2023-06-17
-143,Cristian,Barragán,18.0,F,,2022-06-02
-144,Edmundo,Huerta,23.0,F,,2023-08-18
-145,Rico,,30.0,F,Álava,2025-02-11
-146,Berta,Vilaplana,19.0,M,Melilla,2023-05-13
-147,Anselmo,Ureña,26.0,M,Vizcaya,2024-05-15
-148,Águeda,Prats,27.0,,Almería,
-149,Ascensión,Llopis,26.0,M,,2025-02-05
-150,Tomasa,Arellano,34.0,F,,2025-05-03
-151,,,28.0,F,Zaragoza,2023-05-06
-152,Trini,,37.0,F,,2023-06-16
-153,Georgina,Alcalde,30.0,F,Alicante,2023-12-26
-154,,Cobo,24.0,F,Valladolid,2023-01-24
-155,Pili,Madrigal,26.0,M,Zaragoza,2022-06-03
-156,Constanza,Noguera,36.0,F,Badajoz,2023-12-04
-157,Andrés Felipe,Montoya,38.0,F,,2022-10-19
-158,Isaac,Borrell,-3.0,M,Alicante,2024-10-17
-159,Alfredo,Larrañaga,109.0,M,Pontevedra,2023-10-31
-160,Carmelita,Sureda,22.0,F,Segovia,2022-11-11
-161,Lupe,Rico,23.0,,Sevilla,2024-02-04
-162,Reina,Fonseca,30.0,F,Sevilla,1996-05-20
-163,,,27.0,M,Jaén,2023-02-21
-164,Mariana,Robles,40.0,M,Segovia,2023-11-07
-165,Abilio,Peinado,22.0,M,Valladolid,2024-06-15
-166,Jafet,Casado,24.0,F,Cuenca,2024-08-16
-167,Julio César,Paredes,34.0,M,Almería,2022-05-19
-168,Paz,Falcó,23.0,M,Ceuta,1996-08-25
-169,Rosalina,Tomas,27.0,F,Barcelona,2023-01-01
-170,María José,Sánchez,24.0,F,Córdoba,2022-12-10
-171,Marcos,Vilanova,24.0,M,Zamora,1995-11-26
-172,Buenaventura,Portillo,34.0,F,,2024-02-24
-173,Pelayo,Vilalta,20.0,M,La Coruña,2023-06-15
-174,Luz,Benavent,29.0,M,Álava,
-175,Buenaventura,Barrios,22.0,,Ciudad,2022-07-04
-176,Paola,Cadenas,-3.0,M,Cantabria,2024-12-11
-177,Vicenta,Madrigal,27.0,M,Zaragoza,2022-11-08
-178,Leocadio,Fernández,37.0,M,Tarragona,2022-09-13
-179,,Albero,23.0,M,Ourense,2023-10-15
-180,Ruperto,Cabanillas,34.0,F,Huesca,2002-02-10
-181,Eduardo,Juárez,,M,Teruel,2025-01-23
-182,Amaya,,38.0,F,Valencia,2023-04-22
-183,Martirio,Báez,32.0,X,,2023-09-16
-184,,Múñiz,35.0,M,Santa Cruz de Tenerife,2023-11-23
-185,Pastor,Camino,28.0,F,Cantabria,2023-07-10
-186,María Belén,Palomino,23.0,F,Guadalajara,2024-07-25
-187,Ismael,,31.0,M,Baleares,2023-04-19
-188,,López,37.0,M,Guadalajara,2023-01-17
-189,,Pelayo,31.0,M,,2023-08-18
-190,Juan,Torres,18.0,F,,2000-08-14
-191,Matilde,Mata,-1.0,M,Córdoba,2022-10-16
-192,Selena,Pastor,21.0,X,Granada,2022-12-16
-193,Leonardo,Querol,32.0,F,Jaén,2025-04-19
-194,Joaquín,Camino,,F,Guipúzcoa,2022-06-10
-195,Natanael,Lago,23.0,M,Burgos,2023-08-05
-196,Renata,Cabezas,33.0,1,Burgos,2022-09-05
-197,Eufemia,Olmo,110.0,F,Ávila,1996-01-03
-198,Loreto,Andreu,29.0,M,Burgos,2023-05-28
-199,Nicanor,Carreras,34.0,M,Burgos,2024-04-14
-200,María Luisa,Avilés,27.0,F,Lugo,2024-11-15
-201,José María,Barba,20.0,M,Ceuta,2024-08-31
-202,Celestino,Francisco,28.0,M,Ceuta,
-203,María Manuela,Salmerón,24.0,F,Melilla,2002-09-05
-204,Nicolás,Becerra,39.0,F,,2000-09-19
-205,Adelina,Alvarez,22.0,F,Valladolid,2024-08-14
-206,Mariano,Cerdán,35.0,M,Cáceres,2022-09-23
-207,Bernardo,,30.0,F,Badajoz,2023-01-31
-208,Mayte,Falcó,28.0,M,Palencia,2024-01-03
-209,Martina,Pont,7.0,M,Jaén,1995-10-25
-210,José Luis,Pla,33.0,M,Málaga,2023-07-29
-211,Ainara,Vila,29.0,,Lugo,2022-08-16
-212,Atilio,,35.0,M,Badajoz,2003-10-15
-213,Teresita,Chamorro,22.0,F,León,
-214,Glauco,Ferrándiz,22.0,M,Badajoz,2023-04-18
-215,Merche,Valenciano,27.0,F,Madrid,2023-09-22
-216,Eusebio,Alfonso,31.0,M,Asturias,2022-09-15
-217,Andrea,Macias,25.0,F,Palencia,2022-06-23
-218,Anacleto,Hernando,39.0,M,Asturias,2022-08-28
-219,Dorita,Garrido,34.0,F,Tarragona,2025-01-14
-220,,Bolaños,28.0,F,Ciudad,2023-06-29
-221,Esperanza,Arévalo,29.0,F,Barcelona,2023-08-31
-222,Elisabet,Ayala,27.0,M,Las Palmas,2023-06-28
-223,José Manuel,Carlos,26.0,F,Navarra,2023-07-14
-224,Elisabet,Goicoechea,19.0,M,Albacete,2022-10-04
-225,Alfredo,Ricart,35.0,F,Almería,2025-02-20
-226,Diana,Prat,34.0,M,,2025-01-28
-227,Merche,Blanco,18.0,M,Pontevedra,2024-03-06
-228,Jose Ignacio,Berenguer,27.0,M,Zaragoza,
-229,Jesusa,Domínguez,23.0,M,Huelva,2003-03-04
-230,Francisco,Bernat,27.0,M,La Rioja,2025-01-03
-231,Jacinto,Soriano,38.0,F,Melilla,2022-06-24
-232,Carmina,Colom,28.0,F,Alicante,2025-02-14
-233,,Vaquero,39.0,M,Madrid,2022-11-16
-234,Florina,Comas,30.0,M,Ciudad,2023-01-14
-235,Lucila,,32.0,F,Melilla,2025-02-16
-236,,Bernad,19.0,F,Zaragoza,2022-10-15
-237,Guadalupe,Jordán,27.0,F,Cádiz,2024-10-22
-238,Ricardo,Quero,37.0,F,Navarra,2024-02-15
-239,Samuel,Villaverde,37.0,M,Segovia,2024-07-23
-240,Gabino,Pera,35.0,M,Madrid,2022-09-13
-241,Melisa,Simó,24.0,F,,2022-06-28
-242,Isaura,Romeu,32.0,F,Las Palmas,2023-12-09
-243,,Montoya,,1,Granada,2024-01-16
-244,,Arranz,33.0,,Madrid,2023-04-26
-245,Azahara,Almazán,29.0,F,Valencia,2022-08-16
-246,Martina,,35.0,F,Madrid,2023-01-02
-247,Rosa,Neira,18.0,F,Valladolid,2023-02-04
-248,Alejo,Feijoo,32.0,F,Guipúzcoa,2024-07-26
-249,Odalis,,37.0,M,La Coruña,
-250,Marita,Ferrando,25.0,F,Guipúzcoa,2024-12-16
-251,Hernando,Rodrigo,27.0,F,Granada,2023-03-02
-252,Víctor,Montoya,39.0,F,Murcia,
-253,Lola,Luque,29.0,F,Valladolid,2022-06-02
-254,Rosaura,Bolaños,35.0,M,Zamora,2023-11-09
-255,Máximo,Landa,31.0,M,Albacete,2024-05-30
-256,Manolo,,29.0,X,,2023-12-08
-257,Abril,,,F,Guadalajara,2023-03-15
-258,Arturo,Solsona,33.0,M,Ciudad,2024-06-27
-259,Susanita,Real,38.0,F,Badajoz,2023-01-10
-260,Anna,Valenzuela,28.0,F,Guipúzcoa,
-261,Chucho,,36.0,F,Palencia,2023-05-17
-262,Pelayo,Gaya,35.0,F,Córdoba,2023-04-20
-263,Clemente,Portero,23.0,F,Soria,2023-03-23
-264,Angelino,Terrón,38.0,M,La Rioja,
-265,Maricela,Mendoza,25.0,X,,2023-11-11
-266,Lucio,Martí,37.0,F,,2023-01-10
-267,Aurelio,,35.0,M,Vizcaya,2022-12-20
-268,Nereida,Exposito,21.0,M,Lleida,2023-02-12
-269,Ricarda,Cortes,29.0,F,Álava,2022-09-08
-270,Lino,Villar,38.0,M,,2023-04-01
-271,Jordi,,0.0,F,Albacete,2022-05-14
-272,,Plana,1.0,M,Jaén,2024-01-01
-273,Albano,Sanchez,28.0,X,Sevilla,2024-08-30
-274,Roberta,Arnaiz,,F,Álava,2023-09-25
-275,Eutropio,Ariño,40.0,F,,2023-01-05
-276,Xiomara,Pizarro,37.0,F,,2023-06-17
-277,Reina,Pou,30.0,F,,2024-02-25
-278,Leonor,Tejero,104.0,M,León,2022-09-15
-279,Javier,,29.0,M,Toledo,2023-12-04
-280,Dani,Menendez,18.0,,Navarra,2023-02-03
-281,Ascensión,,20.0,M,Segovia,2024-07-08
-282,Federico,Corominas,33.0,M,La Coruña,2023-06-07
-283,Cleto,,25.0,F,Las Palmas,2024-10-01
-284,Teófilo,Ortiz,28.0,F,Huesca,2023-05-22
-285,Pepe,Andres,37.0,F,Pontevedra,2022-05-28
-286,Martín,Esteban,28.0,F,Álava,2025-04-18
-287,Teresa,Bermudez,29.0,M,Vizcaya,2024-03-20
-288,Reyes,Valls,32.0,M,Segovia,2024-02-17
-289,Lucio,Castillo,31.0,M,La Coruña,2024-01-23
-290,Juan,Flor,20.0,F,Huelva,2024-04-22
-291,Nayara,Rozas,19.0,F,Valladolid,2024-08-23
-292,Dafne,Acevedo,25.0,F,Lleida,2024-11-18
-293,Octavia,Castilla,28.0,F,Granada,
-294,Lupita,Rico,36.0,F,La Rioja,2022-06-28
-295,Pepe,Quintero,18.0,F,Girona,2024-09-25
-296,Vidal,Comas,27.0,M,Valladolid,2024-04-29
-297,,Gilabert,20.0,M,,2023-07-07
-298,Saturnino,Castellanos,25.0,M,Cuenca,2023-10-20
-299,Lupe,Navarrete,23.0,F,Huesca,2024-09-22
-300,Luisa,Guitart,18.0,M,Ciudad,2022-12-09
-301,José,Somoza,35.0,F,Sevilla,2023-01-21
-302,Lucila,Lucena,28.0,F,Santa Cruz de Tenerife,2022-05-23
-303,Palmira,Coca,40.0,M,Jaén,2024-07-08
-304,Cipriano,Balaguer,22.0,F,Salamanca,2024-09-16
-305,Saturnina,Roda,38.0,M,Zaragoza,2024-09-22
-306,Dorotea,Barceló,19.0,M,Salamanca,2022-05-15
-307,Rodolfo,Sanabria,31.0,F,Almería,2023-01-27
-308,Maxi,Planas,25.0,F,Cádiz,2024-04-06
-309,Marcial,Llabrés,33.0,M,Salamanca,2023-08-10
-310,Julio César,Ballester,19.0,F,Baleares,2024-05-02
-311,Ulises,Blazquez,27.0,M,Badajoz,2022-11-11
-312,Malena,Royo,25.0,F,Ourense,2022-06-28
-313,Ramón,Luján,24.0,F,Cáceres,2022-07-03
-314,Gustavo,Huerta,36.0,M,Cuenca,2022-07-18
-315,Feliciano,,38.0,M,Cáceres,2022-12-12
-316,Emiliano,Vázquez,33.0,F,Burgos,2023-09-02
-317,,Mir,30.0,F,Cantabria,2023-01-18
-318,Rosenda,Jerez,20.0,F,Huesca,2022-08-01
-319,Octavia,Oliveras,31.0,F,Barcelona,2023-08-20
-320,Tamara,Belmonte,33.0,M,,2024-04-06
-321,Montserrat,,23.0,M,Huelva,2024-08-15
-322,Elvira,Gallo,27.0,F,,2022-09-22
-323,,Ramos,19.0,F,Zaragoza,2023-05-15
-324,Almudena,,,M,Cádiz,2022-11-30
-325,,Yuste,31.0,F,,2023-09-04
-326,Adela,Almansa,27.0,M,Córdoba,2023-12-16
-327,,Santana,23.0,M,Segovia,2022-10-13
-328,Ruy,Bayona,20.0,M,Badajoz,2022-08-25
-329,Verónica,Planas,22.0,M,Jaén,2024-07-18
-330,Edelmiro,Puga,18.0,F,Cuenca,2024-08-28
-331,Anunciación,Macías,25.0,M,Ávila,2025-02-09
-332,,Roselló,,F,León,2024-05-13
-333,Catalina,Sola,18.0,M,Huelva,
-334,Heliodoro,Manzanares,40.0,F,Alicante,2023-11-30
-335,Tiburcio,Río,20.0,M,Toledo,2025-01-12
-336,Sergio,Valencia,38.0,M,Castellón,2024-12-04
-337,Selena,Pintor,31.0,M,Pontevedra,2023-06-09
-338,Eduardo,Ibañez,40.0,,Ceuta,2024-11-15
-339,Dorita,Abad,22.0,F,Córdoba,2024-07-11
-340,Mayte,Romero,34.0,,Burgos,2023-05-14
-341,,Gomez,23.0,M,Álava,2024-10-26
-342,Marcelo,Echeverría,,F,Santa Cruz de Tenerife,2024-12-06
-343,Fulgencio,,40.0,F,Navarra,2023-04-06
-344,Norberto,Cárdenas,36.0,M,Granada,2022-11-29
-345,Melchor,Clemente,9.0,F,,2023-11-02
-346,Fortunata,Solé,32.0,F,Cantabria,2022-08-17
-347,Fanny,Laguna,22.0,,,2024-01-08
-348,Josefina,Neira,80.0,F,Valladolid,2025-03-08
-349,Alcides,Varela,,X,Ourense,2023-03-17
-350,Salomé,Losa,20.0,M,Burgos,2024-02-14
-351,Amaya,,22.0,F,Valladolid,2024-03-11
-352,Rufina,Izquierdo,32.0,M,Ourense,2024-04-05
-353,Elías,Miranda,32.0,F,Teruel,2023-03-05
-354,Crescencia,Carballo,21.0,1,La Coruña,2022-07-09
-355,,Arco,20.0,F,Lleida,2000-12-30
-356,Bibiana,Bernad,108.0,M,,2024-03-10
-357,Abraham,Vallejo,,F,Valladolid,2023-08-15
-358,,Pablo,20.0,,Toledo,2023-11-05
-359,Omar,,28.0,F,,2024-05-24
-360,Candela,Santana,30.0,M,Girona,2025-04-23
-361,Ramiro,Tejada,37.0,M,Cantabria,2024-10-13
-362,Marianela,Morillo,7.0,M,Valencia,2022-06-01
-363,Cayetana,Arrieta,29.0,F,Madrid,2022-11-01
-364,Gabino,Gálvez,2.0,,La Rioja,2025-05-11
-365,Edu,Balaguer,39.0,M,Jaén,2023-12-16
-366,Carmina,Moles,23.0,F,Castellón,2023-05-18
-367,Chita,,36.0,M,Córdoba,2023-02-16
-368,Paloma,Gonzalez,19.0,X,Barcelona,1995-10-28
-369,,Montenegro,22.0,M,Melilla,2024-05-03
-370,Leoncio,,22.0,F,Zaragoza,2024-07-26
-371,Eusebio,Llorens,27.0,M,Huelva,2025-04-24
-372,Maxi,Bayona,40.0,F,Badajoz,2022-10-18
-373,Amada,Vaquero,22.0,M,Teruel,2023-06-26
-374,Estrella,Morcillo,19.0,F,Teruel,2025-05-07
-375,Angelita,Beltran,22.0,M,Salamanca,2023-09-25
-376,Flor,Benavides,,M,Málaga,2024-03-12
-377,Beatriz,Águila,,F,Córdoba,2024-10-07
-378,Íñigo,Vallés,36.0,M,Vizcaya,
-379,Amor,Carranza,20.0,F,Santa Cruz de Tenerife,
-380,Asunción,Uría,40.0,X,Guipúzcoa,2024-12-21
-381,,Esparza,31.0,F,Cádiz,2024-08-19
-382,,Bartolomé,33.0,F,,1998-05-03
-383,Carmelita,,27.0,F,Ourense,2025-01-14
-384,Consuela,Amador,20.0,F,Barcelona,2025-05-12
-385,Ana,Puerta,32.0,F,Guipúzcoa,2024-01-16
-386,Hilda,,35.0,M,Huesca,2024-03-21
-387,Toño,Delgado,33.0,M,Asturias,
-388,Pastor,Gimeno,39.0,M,Zaragoza,2024-07-25
-389,Caridad,Soto,24.0,F,,2024-03-03
-390,María José,Corominas,37.0,M,,2024-08-06
-391,Chema,Mariscal,18.0,F,Salamanca,2025-04-12
-392,Fidela,Canals,21.0,M,Almería,2025-02-16
-393,Eutropio,Villalba,38.0,F,,2024-09-20
-394,Tomasa,Alegria,19.0,F,La Rioja,2002-09-03
-395,Jose Manuel,Rozas,4.0,M,Alicante,2023-10-16
-396,Rosalva,Salmerón,28.0,F,Palencia,2003-01-23
-397,Seve,Mínguez,34.0,M,Lugo,2025-03-10
-398,Ale,Roca,34.0,M,Valladolid,2024-10-31
-399,Rogelio,,103.0,F,Zaragoza,2024-11-11
-400,Wilfredo,León,111.0,F,Palencia,2023-02-25
-401,Maximino,Ripoll,40.0,,Tarragona,2023-07-15
-402,Lucio,Galan,38.0,M,Guipúzcoa,2024-10-05
-403,,Vélez,18.0,M,Zaragoza,2023-11-29
-404,,Moraleda,27.0,F,Córdoba,2023-01-11
-405,Adán,Cañas,39.0,F,Toledo,1996-08-13
-406,Jose,Guardiola,39.0,M,Cádiz,2022-12-17
-407,Mauricio,Salcedo,38.0,M,Las Palmas,2022-12-16
-408,,Clavero,30.0,M,Santa Cruz de Tenerife,2025-04-19
-409,Rafael,Olmedo,30.0,M,Lleida,2024-08-25
-410,Melisa,Jódar,39.0,F,Tarragona,2025-03-29
-411,Matías,Mariño,96.0,M,Málaga,2023-01-22
-412,Paola,Tamarit,27.0,F,Pontevedra,2022-11-28
-413,Macarena,Jimenez,,F,Santa Cruz de Tenerife,2024-05-10
-414,Tadeo,Arcos,28.0,F,Guipúzcoa,2023-10-14
-415,Emilio,,23.0,M,,2024-04-18
-416,David,Ojeda,33.0,M,Lleida,2025-01-16
-417,Francisco,Viña,18.0,X,Teruel,2024-06-18
-418,Aurora,Rosales,18.0,M,Las Palmas,2023-05-06
-419,Angélica,Barrio,27.0,M,Murcia,2024-09-14
-420,Jordana,Clavero,39.0,F,Girona,2024-01-17
-421,Manuela,Granados,30.0,X,Cádiz,2023-02-10
-422,Edu,Ruano,29.0,M,Asturias,2022-08-01
-423,Eusebio,Tur,19.0,M,,2023-12-11
-424,Rebeca,Baquero,40.0,M,León,2022-07-21
-425,Fulgencio,Albero,22.0,M,Girona,2025-04-22
-426,Roberto,Álvaro,37.0,F,Valencia,2023-11-03
-427,Cecilia,Palau,35.0,M,Barcelona,2023-12-22
-428,Gracia,,116.0,M,Zaragoza,
-429,Ruben,Parra,27.0,M,,2025-04-15
-430,,Catalán,28.0,M,,2024-04-16
-431,,Amo,23.0,F,Girona,2024-08-06
-432,Zaira,Carrillo,21.0,F,Huelva,2022-10-13
-433,Noemí,Alegre,23.0,M,Asturias,2024-05-13
-434,Abigaíl,Navarro,36.0,M,Málaga,2022-10-27
-435,Micaela,Lledó,22.0,F,Cuenca,2025-04-08
-436,,Ariza,40.0,M,Ávila,2024-11-21
-437,Carla,Galan,21.0,M,Cádiz,2023-10-07
-438,Nadia,Rosselló,37.0,X,Cádiz,2022-06-28
-439,Olivia,Carreño,28.0,F,,2024-07-10
-440,Ignacia,Dávila,32.0,F,,2024-04-17
-441,José Mari,Uribe,18.0,F,,2023-09-15
-442,María Jesús,Castellanos,38.0,M,Santa Cruz de Tenerife,2023-11-26
-443,Ariadna,Cabrera,32.0,F,Salamanca,2024-08-18
-444,Norberto,,18.0,F,Burgos,2025-03-22
-445,Tiburcio,Carpio,40.0,F,León,2024-05-05
-446,Jafet,Abascal,32.0,M,Zaragoza,2023-08-08
-447,Régulo,Chaparro,36.0,F,Toledo,2022-09-18
-448,Quirino,Guillen,-4.0,F,Girona,2024-12-16
-449,Borja,Benito,22.0,F,Valencia,2023-02-18
-450,Marciano,Soria,26.0,F,Almería,2023-08-23
-451,Natividad,Lara,34.0,F,Albacete,2024-07-13
-452,Cipriano,Hoyos,27.0,M,Albacete,2023-12-30
-453,Benita,Ropero,28.0,F,Melilla,2023-11-20
-454,Ignacia,Cabeza,35.0,F,La Rioja,2024-12-10
-455,,Vicente,24.0,M,Burgos,2023-09-03
-456,Eli,,24.0,M,Ciudad,2022-08-31
-457,Aníbal,Pinto,25.0,F,Vizcaya,2023-01-07
-458,Arsenio,Lledó,30.0,F,Valladolid,2002-09-14
-459,Epifanio,Arce,32.0,F,Ciudad,2023-11-03
-460,Dionisio,Torrens,27.0,M,Córdoba,2024-03-21
-461,Amaya,Machado,35.0,M,Granada,2024-01-03
-462,Loreto,Priego,22.0,M,Huelva,2025-02-07
-463,Florinda,Guardia,35.0,F,Zamora,2024-02-12
-464,Viviana,Higueras,35.0,M,León,2024-08-09
-465,Sandra,Ballester,37.0,M,León,2022-09-02
-466,Heraclio,Duarte,25.0,F,Baleares,2024-11-03
-467,César,Estrada,18.0,F,Salamanca,2023-01-05
-468,Carla,Leon,28.0,M,Zaragoza,2025-04-19
-469,Zaida,,,F,Las Palmas,2024-04-12
-470,Cirino,Berrocal,28.0,,,2024-08-31
-471,Antonia,Cortes,26.0,F,Cádiz,2023-05-01
-472,,Jáuregui,38.0,M,Ourense,2024-09-01
-473,Jovita,,21.0,F,Girona,2022-09-01
-474,Leocadio,García,18.0,M,Santa Cruz de Tenerife,2023-01-31
-475,Bernarda,Jaén,22.0,F,Ciudad,
-476,León,,35.0,M,Valladolid,2023-06-13
-477,Dulce,Sainz,38.0,M,Huesca,2025-03-24
-478,Modesta,Navas,36.0,F,Badajoz,
-479,Cosme,Ferrán,28.0,M,Las Palmas,2022-12-04
-480,Hernando,Pol,37.0,M,Teruel,2023-10-30
-481,Ainoa,Jiménez,94.0,F,Badajoz,2022-10-02
-482,María Dolores,Aliaga,32.0,F,Huesca,2024-08-02
-483,María Ángeles,,22.0,M,Lugo,2024-10-17
-484,,,117.0,M,Melilla,2022-05-24
-485,Carolina,Bayo,22.0,M,Córdoba,2022-11-08
-486,Adoración,Palomar,20.0,M,Segovia,2024-12-15
-487,José,Frías,34.0,M,Albacete,2024-04-02
-488,Corona,Mata,33.0,M,Jaén,2023-11-11
-489,,Badía,1.0,F,Toledo,1999-09-04
-490,Cayetano,Reina,26.0,F,Segovia,2023-05-19
-491,Chema,España,20.0,F,Cuenca,2024-06-22
-492,Dani,Marqués,33.0,M,Salamanca,2024-03-15
-493,Vanesa,,24.0,M,Palencia,2024-06-11
-494,Emperatriz,Luque,21.0,F,Teruel,2024-12-25
-495,Salud,Llopis,22.0,M,Cuenca,2022-08-16
-496,Ramona,Benavente,23.0,F,Alicante,2025-01-27
-497,,Llano,27.0,M,Pontevedra,2023-06-03
-498,Macaria,Ojeda,37.0,M,Córdoba,2023-01-20
-499,Jimena,Marín,37.0,M,Ávila,2025-03-13
-500,,Soriano,39.0,M,Burgos,2023-11-12
-501,Nadia,Hernandez,35.0,M,,2022-10-12
-502,Febe,Elías,8.0,M,Madrid,2023-06-17
-503,Soraya,Pujadas,29.0,M,Huesca,2023-11-25
-504,Felicidad,Angulo,,,Madrid,2023-10-14
-505,,Martorell,28.0,M,Santa Cruz de Tenerife,2023-05-18
-506,Gertrudis,Marín,29.0,F,Ceuta,2024-01-28
-507,Reyes,Porcel,35.0,F,Vizcaya,2024-12-07
-508,Rosalía,Amador,21.0,F,Cádiz,2023-04-17
-509,Elisa,Girona,35.0,M,Asturias,2024-12-20
-510,,,37.0,M,Jaén,2023-04-17
-511,Loida,Mayoral,30.0,F,Murcia,2022-06-30
-512,Anabel,Calvet,32.0,1,Granada,2022-11-08
-513,Rubén,Chico,39.0,X,Zaragoza,2024-12-24
-514,,Salazar,39.0,M,Girona,2025-04-21
-515,,,35.0,F,Valencia,2023-11-25
-516,María Manuela,Torrecilla,30.0,F,Guipúzcoa,2023-02-14
-517,Pascuala,Amor,21.0,F,Córdoba,2023-12-02
-518,Irma,Alegria,36.0,M,Vizcaya,2023-08-06
-519,Juanita,Gil,18.0,F,,2023-04-17
-520,Fermín,Chamorro,28.0,F,La Coruña,2002-10-10
-521,Débora,,28.0,X,Cádiz,2023-02-04
-522,Lucila,Arteaga,39.0,M,Almería,2025-05-04
-523,Albert,Madrid,24.0,F,Vizcaya,2023-02-05
-524,Juana,Pastor,37.0,,Valencia,2023-10-04
-525,Julio,Lluch,36.0,F,Vizcaya,2023-08-05
-526,Amarilis,Reyes,22.0,,Cantabria,2024-03-04
-527,Manu,Cueto,23.0,M,Pontevedra,2022-11-26
-528,Fulgencio,,36.0,F,Teruel,2022-11-22
-529,Florinda,Arranz,37.0,M,Burgos,2023-11-07
-530,Beatriz,Alcaraz,26.0,M,Teruel,2023-10-04
-531,Julián,Izquierdo,35.0,F,Lugo,2023-04-11
-532,Chema,Gisbert,,F,Jaén,2025-03-15
-533,Amor,Hoz,40.0,M,Albacete,2025-04-11
-534,Godofredo,Hervás,29.0,F,Málaga,2024-12-14
-535,Martin,Saura,36.0,M,Melilla,2023-06-18
-536,Félix,Torralba,32.0,F,Ourense,2024-05-01
-537,Nydia,Arrieta,28.0,F,Baleares,
-538,Jordi,Vilalta,40.0,F,Cantabria,2023-09-02
-539,Bartolomé,Daza,32.0,M,Cuenca,2024-02-20
-540,Álvaro,Morán,20.0,F,Zaragoza,1998-03-08
-541,Aránzazu,,20.0,M,,2024-02-19
-542,Maxi,Ribes,32.0,M,Tarragona,2022-09-22
-543,,Godoy,33.0,F,Toledo,2023-09-09
-544,Sancho,Céspedes,32.0,F,Valencia,2023-12-26
-545,Matilde,Martin,20.0,F,Pontevedra,2024-07-21
-546,,Giralt,22.0,F,Toledo,2025-03-18
-547,Adán,Bejarano,31.0,M,Asturias,2023-05-23
-548,Maricela,Palacio,25.0,F,Valladolid,2023-03-02
-549,,Elías,37.0,F,Huelva,2025-01-27
-550,Bruno,Bermejo,23.0,M,Cádiz,2023-03-18
-551,Julián,Conesa,18.0,M,Madrid,2024-07-12
-552,Paulino,Bustamante,25.0,,Cádiz,2024-07-11
-553,Itziar,Oller,32.0,M,Burgos,2024-09-04
-554,Pili,,20.0,M,Teruel,2025-04-06
-555,Tomasa,Doménech,40.0,F,Badajoz,2023-09-16
-556,Paulina,Gisbert,1.0,F,León,2024-03-24
-557,Plácido,Manzano,21.0,F,Cantabria,2024-01-11
-558,Angelino,Salazar,38.0,M,Córdoba,2022-11-24
-559,Manuela,Berenguer,117.0,M,Cáceres,
-560,Isidoro,Amor,38.0,1,Lugo,2024-08-31
-561,Artemio,Llorente,35.0,F,Badajoz,2024-11-30
-562,Amada,Ayuso,22.0,M,Cádiz,2024-06-15
-563,Gerónimo,Guijarro,23.0,F,Cáceres,2022-11-04
-564,Diana,Carrillo,20.0,F,Cuenca,2023-11-14
-565,Nadia,,30.0,M,Valladolid,2022-08-14
-566,Norberto,Bustamante,92.0,M,Navarra,2023-12-12
-567,Hilario,Rivera,20.0,X,Sevilla,
-568,Maura,,30.0,F,,2022-05-16
-569,Charo,,38.0,M,Huelva,2024-12-29
-570,Rosario,Fuentes,29.0,M,Cantabria,2024-03-15
-571,,,24.0,M,Málaga,2022-07-13
-572,Martina,Egea,36.0,M,Ciudad,2024-06-11
-573,Calixta,Amador,39.0,F,Santa Cruz de Tenerife,2024-09-22
-574,José Luis,Olmo,23.0,F,Tarragona,2025-03-29
-575,Seve,Cabrero,31.0,F,Álava,2025-04-26
-576,Heliodoro,Higueras,35.0,F,Guadalajara,2024-03-17
-577,Abilio,,,F,,2022-07-08
-578,Felicidad,Barreda,40.0,M,,2025-02-16
-579,Marcial,Garmendia,25.0,F,,2025-04-14
-580,Eliseo,Molina,33.0,M,Santa Cruz de Tenerife,2025-03-16
-581,Ruth,Mateos,-4.0,F,Álava,2023-03-15
-582,Mohamed,Rosales,37.0,F,,2025-04-15
-583,Marcos,Salmerón,40.0,M,Asturias,2022-11-21
-584,Leonel,Maestre,20.0,F,Burgos,2024-02-16
-585,José Manuel,Tamarit,35.0,M,León,2024-11-29
-586,Elisabet,Peiró,24.0,M,Guadalajara,2024-03-09
-587,Hector,Herranz,31.0,M,Vizcaya,2024-09-06
-588,Juan Pablo,Menendez,38.0,1,Lugo,2025-01-24
-589,Dulce,Álvarez,32.0,X,Ceuta,2023-09-04
-590,Santiago,Marti,19.0,M,Ávila,2024-12-05
-591,,Murcia,32.0,F,Valladolid,2022-09-11
-592,Liliana,Tapia,33.0,M,Girona,2023-08-30
-593,Victoriano,Burgos,26.0,F,Vizcaya,2024-01-01
-594,Duilio,Sacristán,20.0,F,Lugo,2023-01-12
-595,Dominga,Ocaña,38.0,F,Palencia,2024-05-16
-596,Luz,Estevez,20.0,F,Álava,2023-08-19
-597,,Zapata,33.0,M,,2024-05-18
-598,Tiburcio,Alegre,34.0,M,Asturias,2024-11-15
-599,Moreno,Pinedo,,F,Asturias,2000-07-14
-600,Pacífica,Pavón,39.0,M,Melilla,2023-08-03
-601,Amancio,Reguera,22.0,M,Sevilla,2023-10-24
-602,Marta,Jordá,34.0,F,Segovia,2022-07-22
-603,Benita,Pizarro,28.0,,Madrid,2023-08-13
-604,Marisol,,31.0,F,Ourense,2025-04-01
-605,Natalia,Puente,24.0,M,,2024-06-03
-606,José María,Mateu,37.0,M,Jaén,2023-02-15
-607,Severo,Bru,40.0,M,Sevilla,2025-04-30
-608,Ariel,Sotelo,-5.0,M,Cádiz,1998-07-12
-609,Visitación,Burgos,32.0,F,Ciudad,2004-06-21
-610,Natalia,Toledo,36.0,M,Burgos,2024-06-16
-611,Luisina,,34.0,M,La Rioja,2024-09-06
-612,Nerea,,30.0,F,León,2023-06-01
-613,Matías,,22.0,F,,2022-11-06
-614,Sara,Alvarez,35.0,F,Albacete,1998-05-10
-615,Carlos,Naranjo,32.0,1,Alicante,2023-07-23
-616,Hector,Bru,21.0,F,,2023-12-08
-617,Blanca,Morata,23.0,F,,2023-12-12
-618,Maribel,Palma,23.0,M,Las Palmas,2002-05-22
-619,Amancio,Vélez,38.0,M,León,2005-04-15
-620,,Quesada,18.0,F,Álava,2022-12-12
-621,Román,Díaz,95.0,M,,2024-09-17
-622,Nacio,,39.0,F,Lugo,
-623,Prudencio,Casares,37.0,M,Barcelona,2025-01-09
-624,Asunción,,28.0,F,La Rioja,2023-09-04
-625,América,,21.0,F,Jaén,2023-07-07
-626,Heliodoro,Luís,110.0,F,Guipúzcoa,2023-04-23
-627,Clotilde,Palomo,22.0,F,Albacete,2023-10-03
-628,Bartolomé,Aroca,40.0,M,,
-629,Guiomar,Palacios,31.0,F,Baleares,2024-09-05
-630,Abril,Chamorro,26.0,F,León,2024-06-14
-631,Cesar,Batalla,30.0,M,Barcelona,2023-03-21
-632,Cecilio,Roselló,33.0,M,Ceuta,2022-09-06
-633,Martín,Rodriguez,31.0,M,Madrid,2023-11-15
-634,Cayetano,Azorin,24.0,F,Las Palmas,2025-01-21
-635,Nacio,Valls,18.0,F,Zaragoza,2025-03-22
-636,Ciro,Clemente,27.0,F,Málaga,2023-11-02
-637,,Carpio,27.0,F,Ceuta,2023-03-05
-638,,Garrido,110.0,F,La Rioja,2025-04-25
-639,Emiliano,Anaya,21.0,M,Granada,2005-03-03
-640,Isa,Cepeda,,M,Toledo,2022-11-07
-641,Dolores,,38.0,F,La Coruña,2022-12-06
-642,Valerio,Plaza,26.0,F,Alicante,2024-11-28
-643,Iván,Lago,35.0,M,Badajoz,2025-04-13
-644,Camila,Aramburu,28.0,M,Guadalajara,2022-10-16
-645,Alicia,Plana,,F,Soria,2023-06-13
-646,Sofía,Montaña,35.0,,Málaga,2004-11-20
-647,,Márquez,32.0,M,Teruel,2023-04-26
-648,Verónica,Mendizábal,39.0,F,Cuenca,2001-02-09
-649,Adrián,Sanmiguel,27.0,M,Cáceres,2023-03-08
-650,Marcos,Mena,20.0,F,Valencia,2024-01-31
-651,Cosme,Alcaraz,30.0,X,Navarra,2024-08-09
-652,Amarilis,Díez,35.0,M,Zaragoza,1996-05-09
-653,América,Mate,21.0,M,Vizcaya,2024-12-27
-654,Calisto,Quirós,30.0,M,,2024-06-01
-655,Silvia,Batalla,18.0,M,Navarra,2023-01-13
-656,Loida,Briones,28.0,F,Navarra,2024-10-17
-657,Francisco,Blazquez,36.0,,Huesca,2023-09-14
-658,,Leal,18.0,F,Huelva,2022-05-28
-659,,Avilés,38.0,F,Murcia,2024-11-18
-660,Felicia,Ugarte,35.0,F,Sevilla,2024-09-24
-661,Ignacio,Briones,20.0,M,Granada,2024-07-21
-662,Isabel,Abascal,109.0,F,Guipúzcoa,2025-01-27
-663,Martin,Guijarro,25.0,M,Salamanca,2022-07-20
-664,Gregorio,Murillo,35.0,M,Girona,2023-08-18
-665,Reyna,Manrique,40.0,1,Pontevedra,
-666,Cosme,Corominas,39.0,1,Sevilla,2025-03-14
-667,Venceslás,,33.0,F,Ceuta,2023-04-01
-668,Odalis,Montserrat,4.0,,Málaga,2022-09-28
-669,Begoña,Gibert,18.0,M,Cuenca,2004-04-16
-670,Néstor,Chacón,26.0,,Baleares,2023-08-07
-671,Concepción,Marti,23.0,M,Castellón,2023-07-11
-672,Nazario,Jordán,,F,Palencia,2023-05-10
-673,Augusto,Ribas,29.0,1,Vizcaya,2025-03-28
-674,Olga,Salmerón,35.0,F,La Coruña,2024-02-01
-675,Marciano,,32.0,F,Murcia,2022-07-27
-676,,Revilla,31.0,F,Badajoz,2022-07-26
-677,,Correa,39.0,M,La Coruña,2022-11-15
-678,Clotilde,Francisco,,M,Málaga,2023-06-08
-679,Josefina,Cuadrado,83.0,M,Almería,2024-02-19
-680,Guadalupe,Angulo,22.0,M,León,2023-08-22
-681,Abril,Santiago,38.0,F,Guipúzcoa,2025-05-01
-682,Febe,Bermúdez,20.0,M,Cantabria,2024-12-30
-683,,Gascón,32.0,X,Huesca,2023-05-03
-684,Azucena,Heredia,24.0,M,Cuenca,2024-09-08
-685,Olimpia,,26.0,M,Cádiz,2025-04-28
-686,Prudencia,Ropero,26.0,F,Castellón,2024-12-06
-687,Jose Luis,Blasco,31.0,M,Toledo,1996-03-14
-688,Néstor,Cobo,28.0,F,,2022-05-20
-689,Agustina,Cañizares,28.0,,Cuenca,2025-01-10
-690,Ema,Terrón,39.0,F,Burgos,2023-07-06
-691,Odalys,,24.0,M,,2024-04-21
-692,Román,Ricart,38.0,F,Ávila,1998-06-03
-693,,Leal,93.0,F,Valladolid,2024-03-16
-694,Edelmiro,Acuña,20.0,X,Granada,
-695,Imelda,Peñalver,,M,Cantabria,
-696,Ágata,Paniagua,20.0,F,Murcia,2023-04-17
-697,Eliseo,Marín,39.0,M,Jaén,2023-05-29
-698,Lupita,,20.0,M,Cáceres,2023-04-14
-699,Patricia,Bilbao,36.0,,Alicante,2022-09-22
-700,Julio César,Millán,20.0,X,Navarra,2025-03-16
-701,Edu,Pedro,33.0,M,Lugo,2025-03-31
-702,Elodia,Lluch,40.0,X,Zamora,2024-10-25
-703,,Corral,31.0,X,Ávila,2024-09-08
-704,Osvaldo,Linares,35.0,F,Pontevedra,2025-04-17
-705,Narcisa,Hervás,39.0,F,Badajoz,2022-07-25
-706,Chita,,24.0,F,Sevilla,2024-07-05
-707,Guadalupe,Aroca,,M,,2023-09-24
-708,Úrsula,Botella,39.0,M,Huesca,2023-08-11
-709,,Valdés,30.0,M,Álava,2023-10-30
-710,Alfredo,Paredes,32.0,F,Lugo,2024-05-05
-711,Matilde,Castro,22.0,,Huelva,2025-04-30
-712,Teodosio,Andrade,25.0,M,Cuenca,2024-05-29
-713,Florina,Navas,25.0,,Sevilla,2022-09-08
-714,Roberta,Casas,,M,La Rioja,2023-04-04
-715,Eustaquio,Uría,-4.0,M,La Rioja,2022-05-25
-716,Almudena,Valls,,M,Palencia,2023-10-26
-717,Cosme,Redondo,20.0,1,Melilla,2022-12-24
-718,Jordi,Samper,32.0,F,Burgos,2024-05-02
-719,Aarón,Lobo,104.0,M,Cádiz,2022-07-26
-720,Socorro,Pina,24.0,M,Álava,2023-08-13
-721,Germán,Cazorla,29.0,M,Málaga,2022-05-13
-722,,Cases,40.0,X,Madrid,2024-12-17
-723,Bárbara,Perez,36.0,M,Soria,2025-05-02
-724,Fabián,Sarabia,31.0,M,Burgos,2024-12-29
-725,María Fernanda,Escalona,35.0,F,Soria,2024-06-10
-726,Amílcar,Gaya,20.0,F,,2023-10-25
-727,Odalys,Fortuny,,F,La Coruña,2024-11-18
-728,Hilda,,39.0,M,Huelva,2023-02-08
-729,Carlito,,18.0,M,Cáceres,2022-12-26
-730,Arcelia,Iglesias,28.0,F,Asturias,2024-07-04
-731,Dorita,Torralba,25.0,F,Albacete,2001-10-13
-732,Francisco Javier,Mir,23.0,F,Cuenca,2025-01-01
-733,Isaías,Huertas,23.0,M,Valencia,2023-07-14
-734,Eli,Lobato,40.0,1,León,2023-08-30
-735,Apolinar,Morell,21.0,F,Cuenca,2025-03-13
-736,Anita,Estévez,35.0,F,Asturias,2022-08-07
-737,Chus,Rosa,36.0,F,Castellón,2023-08-19
-738,Fortunata,,21.0,F,Barcelona,2023-04-29
-739,Azucena,Tomas,24.0,M,Valladolid,2025-04-20
-740,Calixta,,39.0,M,Alicante,2025-05-01
-741,Teófilo,Carvajal,19.0,F,La Coruña,2022-05-25
-742,Bruno,Dalmau,6.0,M,Granada,2022-11-25
-743,Cruz,Quintana,23.0,F,Córdoba,2025-04-28
-744,Clemente,Rios,27.0,F,,2023-07-05
-745,Paloma,,26.0,F,Madrid,2024-04-20
-746,Carlos,Múñiz,35.0,F,Asturias,2023-07-03
-747,Amador,Navarro,-5.0,F,Barcelona,2022-08-12
-748,Remedios,Vallejo,38.0,M,Sevilla,2024-02-15
-749,Rolando,Amores,33.0,F,Ávila,2022-09-17
-750,Flora,Vara,36.0,1,Melilla,2004-10-24
-751,Luisina,Asenjo,19.0,F,Palencia,2024-02-07
-752,,Colomer,20.0,M,Girona,2024-02-04
-753,Severino,Oliva,39.0,F,Almería,2023-07-21
-754,,Peñas,18.0,F,Burgos,2024-10-12
-755,Aurora,García,22.0,M,Cuenca,2023-11-23
-756,Marcia,Fabregat,40.0,M,Ciudad,2023-10-06
-757,Artemio,Donoso,99.0,F,Palencia,2024-06-15
-758,Azucena,Carbonell,18.0,M,Córdoba,2023-05-18
-759,María Pilar,Burgos,22.0,F,Toledo,2024-10-07
-760,,Juan,19.0,M,León,2025-02-04
-761,,Soria,20.0,M,Madrid,2023-10-17
-762,Gervasio,Pablo,23.0,M,,2024-09-01
-763,Rosalva,Varela,23.0,M,Albacete,
-764,Josep,Vallejo,23.0,M,Murcia,
-765,Juan Antonio,Andrade,40.0,F,Cantabria,2025-05-05
-766,Sofía,Peral,34.0,M,Ávila,2024-08-04
-767,Lara,Garmendia,29.0,M,,2025-01-13
-768,Ambrosio,Iglesia,39.0,F,Ourense,2022-08-28
-769,Matías,Falcó,33.0,F,Salamanca,2024-11-18
-770,Concepción,Sarmiento,39.0,M,Girona,2024-02-22
-771,Eva María,Beltran,23.0,X,Toledo,2023-01-11
-772,Curro,Montserrat,33.0,F,Palencia,2024-11-26
-773,Angelino,Machado,30.0,F,Badajoz,2024-06-29
-774,Rosaura,Andres,22.0,,Barcelona,2024-12-08
-775,,Llano,28.0,M,Girona,2024-02-16
-776,Teobaldo,Crespo,27.0,F,Castellón,2023-10-26
-777,Lucho,Vives,,F,Burgos,2024-01-31
-778,,Cabrera,27.0,M,Ceuta,2024-03-29
-779,Rufino,Noriega,39.0,F,Navarra,2024-06-28
-780,Cirino,Barrera,30.0,F,Albacete,2023-01-07
-781,,Peñas,29.0,M,Sevilla,2023-02-14
-782,Alexandra,Colom,31.0,M,Soria,2025-01-01
-783,Eutimio,Poza,4.0,F,,2022-11-13
-784,Gonzalo,Uriarte,18.0,M,Málaga,2022-11-04
-785,Félix,Acuña,21.0,M,Valladolid,2024-12-19
-786,Otilia,Gimenez,29.0,M,Vizcaya,2024-10-18
-787,Bienvenida,Portillo,27.0,F,Burgos,2024-01-31
-788,Luís,Bejarano,-2.0,F,Castellón,2023-10-30
-789,,Infante,27.0,F,Cuenca,2025-01-21
-790,Valerio,Doménech,23.0,M,Baleares,2023-02-13
-791,Julia,Urrutia,38.0,F,Barcelona,2022-09-22
-792,,Villegas,25.0,F,Murcia,2022-09-07
-793,Hortensia,Blasco,31.0,F,Ávila,2022-12-21
-794,Alfonso,Casanova,24.0,1,Madrid,2024-10-26
-795,Jesús,Santana,,1,Zaragoza,2023-07-25
-796,Emma,Santamaria,18.0,,Cádiz,2022-11-17
-797,,Huerta,39.0,M,La Coruña,2023-01-31
-798,Abraham,Cruz,34.0,F,Segovia,
-799,María Fernanda,Alfonso,30.0,M,Santa Cruz de Tenerife,2025-01-23
-800,Román,Hierro,31.0,M,Zaragoza,2022-05-29
-801,Aránzazu,Villena,39.0,F,Sevilla,2024-05-15
-802,Emiliano,Granados,18.0,M,Segovia,2025-03-30
-803,Ciríaco,Ferrer,25.0,F,Cádiz,2023-11-23
-804,Sarita,Fajardo,25.0,F,,2023-05-14
-805,Florentino,Pujadas,25.0,M,Teruel,2022-11-20
-806,Atilio,Sainz,19.0,M,Málaga,2024-11-30
-807,Remigio,Ferrándiz,40.0,M,Ourense,2024-08-05
-808,Evangelina,Gomez,35.0,F,Palencia,2023-08-11
-809,Antonia,Alcalde,38.0,F,Toledo,2024-03-28
-810,Carmelita,Cabo,40.0,M,Asturias,2023-11-20
-811,Celestino,Amador,22.0,F,Sevilla,2025-04-14
-812,Ariel,Lledó,36.0,M,Tarragona,2024-10-20
-813,Iris,Navarro,24.0,M,,2025-04-01
-814,Pancho,Acuña,23.0,M,,2024-09-05
-815,Sofía,Guerrero,33.0,M,La Rioja,2023-08-09
-816,Plácido,Goicoechea,22.0,M,Albacete,2023-11-11
-817,Juan Antonio,Nadal,31.0,M,Lugo,2023-10-14
-818,Ibán,Cabañas,39.0,M,,2022-06-04
-819,Piedad,Cerezo,40.0,F,Palencia,2024-10-13
-820,,,25.0,F,Cantabria,2024-03-04
-821,Félix,Pina,19.0,,Huesca,2023-02-02
-822,Martín,Miralles,36.0,M,Tarragona,2025-01-14
-823,Verónica,Silva,34.0,F,Ourense,
-824,Jeremías,Vergara,29.0,F,Toledo,2022-12-21
-825,Loida,Moraleda,31.0,F,Cantabria,2024-11-04
-826,Ale,Vilanova,38.0,M,Vizcaya,
-827,,Ramis,31.0,F,,2024-06-25
-828,Pelayo,Calzada,22.0,M,Cuenca,2022-10-13
-829,Custodio,Vilaplana,36.0,M,Soria,2023-09-28
-830,Eva María,Perera,20.0,F,Palencia,2023-06-06
-831,,Porras,30.0,M,Murcia,2024-06-18
-832,,Muro,32.0,F,Murcia,
-833,Melchor,Conde,36.0,M,Castellón,2024-02-22
-834,Azucena,Cuervo,37.0,F,Vizcaya,2024-02-22
-835,Fidel,Lara,1.0,F,Pontevedra,2025-02-28
-836,Fabricio,Pombo,27.0,M,Valencia,1997-09-07
-837,Gracia,Gomis,33.0,F,,2023-08-03
-838,Herberto,Yuste,20.0,1,Navarra,2025-01-25
-839,Edelmira,Vendrell,34.0,M,Sevilla,2024-12-22
-840,Fermín,Azcona,22.0,F,Zaragoza,2023-10-17
-841,Olalla,,,F,,2022-08-18
-842,Rosalva,Duarte,20.0,M,Toledo,2023-12-13
-843,Jose Angel,Varela,20.0,F,Cantabria,2023-11-16
-844,Iris,Millán,28.0,M,León,1995-12-31
-845,Raimundo,Anguita,18.0,M,Tarragona,2022-05-30
-846,Ciríaco,Carreño,37.0,F,La Coruña,2022-06-04
-847,José,Sandoval,30.0,M,Almería,
-848,Dulce,Benitez,18.0,M,Valencia,2022-12-06
-849,Herminia,Casares,27.0,M,Teruel,
-850,Ruperto,Santos,33.0,F,Jaén,2022-12-08
-851,Martina,Botella,86.0,F,Ourense,2022-11-02
-852,Iris,Barreda,27.0,,Córdoba,2023-06-08
-853,Nando,Torrecilla,33.0,M,Santa Cruz de Tenerife,2023-12-18
-854,Luz,,31.0,M,Cuenca,2023-01-24
-855,Julie,Cal,4.0,M,Albacete,2022-10-25
-856,Emilio,Patiño,40.0,M,Zamora,2024-08-01
-857,Jeremías,Sabater,38.0,F,Lugo,2024-08-26
-858,Camilo,Aguiló,39.0,M,Toledo,2023-03-25
-859,Yago,Saavedra,27.0,M,Madrid,2025-01-20
-860,Guadalupe,Barceló,34.0,,Cuenca,2023-03-10
-861,Albino,Huguet,28.0,M,Zaragoza,2022-08-16
-862,Daniela,Pedro,37.0,M,Lugo,2023-10-09
-863,Regina,Bayona,21.0,M,Sevilla,
-864,Heliodoro,Vara,29.0,F,Almería,2022-06-21
-865,Ágata,Navarrete,29.0,M,León,2023-06-22
-866,Odalys,Nuñez,10.0,M,Madrid,2022-07-06
-867,Alejo,Rius,34.0,M,Ciudad,2023-05-22
-868,Nicodemo,Ruiz,34.0,F,Castellón,2023-12-09
-869,Andrea,Vázquez,20.0,1,Ceuta,2022-06-05
-870,Roberta,Bermúdez,,F,Lleida,2024-12-16
-871,Aníbal,Pereira,28.0,M,Melilla,2022-08-29
-872,Baltasar,Sáenz,38.0,F,Badajoz,2022-07-28
-873,Xavier,Rios,27.0,1,Ávila,2025-02-12
-874,Samuel,Mascaró,24.0,1,Castellón,2023-11-02
-875,Wilfredo,,36.0,F,Valladolid,2024-05-31
-876,Dafne,,38.0,M,,2024-04-04
-877,Febe,Cabo,32.0,M,Ceuta,2025-04-13
-878,Victor,Cánovas,35.0,M,Huelva,2023-12-21
-879,Claudia,Cuesta,40.0,M,Cádiz,2024-06-29
-880,Soledad,Prieto,22.0,F,,
-881,Rosenda,Ropero,34.0,F,Málaga,2022-10-09
-882,Iván,Barón,33.0,F,Guadalajara,2022-09-30
-883,Crescencia,Sarabia,40.0,M,Guadalajara,2022-06-19
-884,,Prats,21.0,F,Baleares,2022-09-17
-885,Gertrudis,Vara,27.0,F,Álava,
-886,Leopoldo,Tena,,F,,2024-02-06
-887,,,27.0,F,Segovia,2023-11-06
-888,Guiomar,Múñiz,34.0,F,Cáceres,2024-12-04
-889,Dulce,,37.0,M,Ávila,2023-08-13
-890,,Lobato,26.0,M,Tarragona,2024-08-11
-891,Magdalena,Arteaga,21.0,M,Sevilla,2025-05-09
-892,María Pilar,,24.0,M,Jaén,2023-12-26
-893,Charo,,25.0,F,,2022-09-08
-894,Pancho,Maestre,18.0,M,Guadalajara,2025-01-13
-895,Eutropio,Santos,21.0,F,Granada,2022-10-21
-896,,Viana,23.0,1,Asturias,2024-08-06
-897,Paloma,,28.0,M,,2024-06-08
-898,Manu,Revilla,34.0,M,Álava,2024-07-22
-899,Noelia,,2.0,M,Valladolid,2024-04-24
-900,Miguel Ángel,Aroca,20.0,M,Melilla,2022-09-07
-901,Pilar,Sierra,31.0,F,,2022-07-27
-902,Héctor,Huertas,23.0,,Girona,2023-06-18
-903,Heliodoro,Sotelo,24.0,F,,2023-08-28
-904,Gaspar,Palau,21.0,F,Ourense,2023-03-09
-905,Yésica,Ricart,28.0,F,Álava,2023-08-10
-906,Sara,Abella,28.0,X,Lugo,2004-04-19
-907,,,35.0,F,Castellón,2022-12-13
-908,María Belén,Ocaña,108.0,F,Baleares,2023-08-03
-909,Itziar,Tejedor,18.0,F,Granada,2024-07-09
-910,Elena,,40.0,M,Valladolid,2024-02-15
-911,Lino,Mate,29.0,,Córdoba,2022-06-27
-912,Daniela,Saavedra,30.0,F,Badajoz,2023-04-01
-913,Esteban,Ballesteros,39.0,M,,2023-05-26
-914,,Lledó,25.0,F,Cantabria,2024-03-27
-915,Porfirio,Vendrell,26.0,F,,2023-02-12
-916,Eusebio,Fernández,28.0,F,Murcia,2023-06-06
-917,Santiago,Espejo,25.0,,Salamanca,2023-01-31
-918,Susanita,Milla,18.0,M,Castellón,2024-05-01
-919,,Quirós,27.0,,,2024-07-28
-920,,Clavero,26.0,F,Palencia,2025-03-12
-921,,Tomas,20.0,F,Almería,2023-03-25
-922,Isaac,,-4.0,M,Ciudad,2000-08-13
-923,,Gámez,21.0,M,Ciudad,2023-09-21
-924,,Duque,37.0,M,Alicante,2024-05-29
-925,Isaac,Tenorio,38.0,M,Almería,2023-04-14
-926,Eric,Borrell,20.0,M,Castellón,2024-02-13
-927,Gil,Benavente,37.0,M,Salamanca,
-928,Griselda,Andrés,29.0,M,Badajoz,2024-02-10
-929,Febe,Coloma,,M,Valencia,2022-10-06
-930,Luz,Alonso,28.0,F,Santa Cruz de Tenerife,2025-01-28
-931,Susanita,Dominguez,28.0,F,Las Palmas,2023-02-01
-932,Nidia,Rivero,18.0,M,León,2022-07-26
-933,Reinaldo,Llorente,30.0,M,Málaga,
-934,,,27.0,F,,
-935,Reyes,Cervera,23.0,M,Ourense,2001-06-08
-936,Adrián,,30.0,M,Málaga,2024-05-24
-937,Susanita,Lobato,23.0,F,Cáceres,
-938,Felix,Monreal,35.0,F,Málaga,2024-12-20
-939,Eva,Saldaña,36.0,F,Albacete,2022-05-24
-940,,Parra,34.0,F,Almería,1999-05-20
-941,Zoraida,Valenzuela,30.0,F,Álava,2023-07-15
-942,Donato,Colom,40.0,F,La Rioja,2023-05-21
-943,María Pilar,Villanueva,2.0,F,Ciudad,2025-01-03
-944,Leonardo,Galán,26.0,M,Toledo,2023-07-16
-945,Osvaldo,Palomares,5.0,F,Alicante,2025-02-04
-946,Matías,,26.0,F,Baleares,2024-01-23
-947,Macaria,Donaire,,F,,2022-12-22
-948,Sebastian,Hoz,39.0,M,Asturias,2024-04-06
-949,Morena,Moreno,26.0,1,Navarra,2022-12-14
-950,Jeremías,Soto,38.0,X,Girona,2023-08-28
-951,Yolanda,Zamora,36.0,F,Baleares,2025-04-22
-952,Ruth,Peinado,40.0,F,Guadalajara,2024-08-12
-953,Ámbar,Rodríguez,18.0,F,Murcia,2024-12-23
-954,José Luis,Arroyo,35.0,M,Vizcaya,
-955,Delfina,Hierro,38.0,F,Ciudad,2023-06-28
-956,Jose Carlos,Ribas,21.0,F,Alicante,2023-12-10
-957,Olimpia,Ripoll,40.0,M,Salamanca,2005-01-12
-958,Noa,Barrios,20.0,F,Huelva,2023-09-08
-959,Crescencia,Rius,21.0,F,Palencia,
-960,Lilia,Durán,40.0,M,Pontevedra,2022-07-23
-961,Aristides,Porras,26.0,M,Alicante,2023-03-03
-962,Soledad,Gallego,36.0,F,Granada,
-963,Eugenia,Vives,40.0,F,Cuenca,2023-10-06
-964,Arturo,Amor,37.0,F,La Rioja,2023-12-16
-965,Goyo,,19.0,M,Ceuta,2022-09-25
-966,Clotilde,Villaverde,24.0,F,Guadalajara,2023-07-19
-967,Remedios,,28.0,M,Jaén,2024-09-29
-968,Verónica,,32.0,F,Melilla,2024-03-13
-969,,Silva,28.0,F,Córdoba,
-970,Asdrubal,Osorio,26.0,M,Barcelona,2024-10-19
-971,Gonzalo,Morata,23.0,,Ceuta,2023-10-27
-972,Teodoro,Llabrés,108.0,,Navarra,2023-10-09
-973,,,24.0,F,Zaragoza,2023-03-04
-974,,,,M,Granada,2022-06-14
-975,Jesús,Segura,21.0,F,Cantabria,2022-06-09
-976,Bernardo,Machado,21.0,M,La Rioja,2024-10-30
-977,Aureliano,Calleja,32.0,F,Albacete,2023-08-29
-978,,Peral,37.0,M,Palencia,2024-10-25
-979,Olalla,Soriano,21.0,F,Tarragona,2024-09-26
-980,Andrés,Larrea,40.0,F,,1999-09-18
-981,Raúl,Lumbreras,36.0,M,Teruel,2024-09-02
-982,Diana,Solsona,25.0,M,Valencia,2024-02-04
-983,Mohamed,Salinas,25.0,F,Ávila,2025-02-11
-984,Maristela,Campillo,34.0,F,Valencia,2023-10-29
-985,,Robledo,25.0,M,Ourense,2024-02-12
-986,Eladio,Díaz,37.0,F,Ciudad,2022-12-14
-987,,Barrera,19.0,M,Cantabria,2024-06-18
-988,Renato,Pons,24.0,M,Tarragona,2023-01-20
-989,Leyre,Valentín,37.0,F,Toledo,2025-04-25
-990,Luciana,Bárcena,29.0,M,Huelva,2025-03-31
-991,Luciano,Rocha,33.0,,Cádiz,2000-12-18
-992,Amando,Salas,26.0,F,Badajoz,2022-08-09
-993,Ana Sofía,,33.0,M,,2022-07-24
-994,Nerea,Paz,31.0,F,Valencia,2022-11-14
-995,Bartolomé,,21.0,M,Zaragoza,2023-01-25
-996,Juan Pablo,Osorio,34.0,F,Salamanca,2025-03-30
-997,Emperatriz,Marquez,19.0,F,Salamanca,2022-06-23
-998,Venceslás,Expósito,32.0,M,Zaragoza,2022-11-10
-999,Julio,Rius,-3.0,M,Burgos,2023-06-25
-1000,Desiderio,Bolaños,27.0,F,Vizcaya,2023-02-09
+1,Consuelo,null,25.0,M,Girona,2025-03-26
+2,null,Boada,94.0,M,Cáceres,2022-07-10
+3,Joaquina,Gomis,18.0,M,Cádiz,2024-01-01
+4,Azeneth,Urrutia,20.0,F,Cantabria,2022-09-01
+5,Luis Miguel,Goicoechea,30.0,1,Tarragona,2022-06-24
+6,Lorena,Higueras,19.0,F,Palencia,2022-06-06
+7,Abigaíl,Bertrán,29.0,F,Guipúzcoa,2022-06-02
+8,Julie,Adán,23.0,M,Huesca,2023-10-18
+9,Jordana,Carpio,39.0,M,Zaragoza,1995-12-06
+10,Edelmiro,null,36.0,F,Granada,2023-08-09
+11,Agapito,Ferrández,22.0,F,Guipúzcoa,2023-01-19
+12,Joaquín,Bermudez,22.0,M,Vizcaya,2023-10-08
+13,Amado,Arrieta,37.0,,Toledo,2024-11-11
+14,Renato,Núñez,39.0,F,Cantabria,2023-09-25
+15,Marita,Figuerola,null,M,Segovia,2022-10-26
+16,Ale,Ocaña,23.0,M,Ourense,2024-01-12
+17,Baldomero,Marin,27.0,M,Ourense,2023-08-17
+18,null,Velasco,88.0,M,Madrid,2025-05-03
+19,Guillermo,Valderrama,40.0,F,Ceuta,2024-02-20
+20,Loreto,Palomar,25.0,F,null,2024-05-19
+21,Manu,null,19.0,M,Huelva,null
+22,María Del Carmen,Carrasco,36.0,M,Santa Cruz de Tenerife,2023-06-20
+23,María,null,31.0,M,Badajoz,2024-01-20
+24,null,Tur,21.0,M,Tarragona,2023-06-02
+25,Mirta,Berenguer,20.0,M,null,2022-07-29
+26,Teodora,Isern,25.0,F,Las Palmas,2023-11-10
+27,Cornelio,Botella,7.0,F,Lugo,2023-11-19
+28,Perla,Izaguirre,28.0,,Burgos,2025-01-31
+29,Juan Francisco,Vera,84.0,X,León,2024-07-10
+30,Ricardo,Monreal,106.0,F,Palencia,2024-10-16
+31,Ruth,Sobrino,39.0,F,Barcelona,2023-12-22
+32,null,Castrillo,21.0,X,Segovia,2025-04-16
+33,Virginia,null,27.0,F,Badajoz,2023-11-03
+34,Feliciano,null,27.0,M,Alicante,2024-04-28
+35,César,Castilla,26.0,M,Asturias,2025-01-06
+36,Pascuala,Luján,19.0,,Ourense,2004-08-02
+37,Teresita,Girona,32.0,F,Barcelona,2025-04-15
+38,Reinaldo,Carreras,19.0,M,Teruel,2000-08-17
+39,Luciana,Jaume,29.0,M,Toledo,2024-05-08
+40,Vinicio,Cano,22.0,M,Cádiz,2022-09-07
+41,Bibiana,Ángel,106.0,M,Ávila,2022-08-22
+42,Cebrián,Cardona,25.0,F,Segovia,2025-04-27
+43,Coral,Anaya,30.0,M,Sevilla,2024-08-18
+44,Elisabet,Franch,35.0,M,Cuenca,2025-03-08
+45,Maximiliano,Nevado,21.0,F,Toledo,2024-09-25
+46,María,Pablo,36.0,M,Toledo,null
+47,Calixto,null,28.0,M,Guipúzcoa,2024-08-24
+48,Patricia,Cerezo,27.0,M,Badajoz,2023-06-25
+49,Leocadia,Ordóñez,27.0,M,Cuenca,2024-12-08
+50,Claudio,Jaén,32.0,M,Segovia,2024-10-12
+51,Lucila,Martín,27.0,F,null,2022-11-01
+52,Primitivo,Peña,22.0,X,Santa Cruz de Tenerife,2024-10-29
+53,Ángeles,Moya,36.0,F,Girona,2024-11-12
+54,Pablo,null,21.0,M,Cuenca,2023-02-18
+55,Beatriz,null,21.0,F,Cádiz,2023-03-16
+56,Jovita,Chaves,37.0,F,Teruel,2024-08-01
+57,Esteban,Gras,26.0,F,Sevilla,2024-03-14
+58,Gaspar,Bernal,4.0,M,Tarragona,2024-08-09
+59,Desiderio,Blazquez,101.0,M,Pontevedra,2023-04-03
+60,Emperatriz,Vidal,36.0,M,Álava,2024-06-12
+61,María Cristina,Carreño,35.0,M,Palencia,2022-08-04
+62,Nazario,Ibañez,30.0,F,Granada,2024-09-04
+63,José,Requena,39.0,,Ávila,2025-04-21
+64,null,Gallo,28.0,F,Baleares,2024-01-07
+65,Abilio,Carballo,35.0,1,Toledo,null
+66,María Luisa,Blanch,18.0,M,Melilla,2022-09-18
+67,Silvestre,Téllez,29.0,M,Cádiz,2023-10-26
+68,Bernarda,Navarro,36.0,F,Burgos,2024-08-12
+69,null,Barroso,21.0,F,Zamora,2024-09-15
+70,Amílcar,Velázquez,29.0,F,null,2023-11-17
+71,null,Palomo,31.0,F,Asturias,2023-10-13
+72,Dulce,Pavón,35.0,F,Asturias,2025-01-28
+73,Luis Miguel,Aller,20.0,F,Cantabria,2024-10-24
+74,Eladio,Gomila,5.0,F,Palencia,2023-01-06
+75,Jacinta,Palma,null,F,Palencia,2023-05-16
+76,Diana,Lladó,18.0,X,Tarragona,2025-03-18
+77,Odalys,Padilla,29.0,F,Almería,2024-08-11
+78,Teófila,Hernando,28.0,M,Segovia,2023-08-10
+79,Benigna,Abril,37.0,M,Zamora,2024-10-02
+80,Fausto,Sobrino,22.0,M,Jaén,2022-07-09
+81,Cándida,Abella,18.0,F,Castellón,2024-08-16
+82,Elena,Lucena,21.0,F,Baleares,2024-05-02
+83,Nidia,Jiménez,27.0,X,Albacete,2022-08-31
+84,Macarena,Valderrama,34.0,F,Guipúzcoa,2025-03-15
+85,Eliseo,Calleja,93.0,M,Zaragoza,2023-08-07
+86,null,null,37.0,M,Segovia,2024-08-13
+87,Emma,Tenorio,26.0,M,Valencia,2025-03-02
+88,Heraclio,Aliaga,20.0,1,Cantabria,2023-12-20
+89,Angélica,Iglesia,27.0,F,Guadalajara,2024-06-21
+90,null,null,28.0,M,null,2024-10-20
+91,Abel,Sabater,39.0,M,Sevilla,2025-04-18
+92,Custodio,Bueno,36.0,F,Las Palmas,2022-12-07
+93,Hipólito,Prat,23.0,F,Cuenca,2022-08-31
+94,Custodia,Marqués,28.0,M,Córdoba,2025-04-12
+95,Francisco Jose,Sanz,35.0,M,Cáceres,2023-05-13
+96,Juanita,Pablo,24.0,M,Ciudad,2022-07-07
+97,Eleuterio,Barroso,37.0,M,Teruel,1995-10-21
+98,null,Baños,32.0,M,Asturias,2022-10-12
+99,Xiomara,Bartolomé,33.0,M,Guadalajara,2022-09-12
+100,Manuela,Salamanca,26.0,F,Cuenca,2025-01-19
+101,Ángela,null,36.0,F,Córdoba,2024-03-21
+102,Salomé,Gabaldón,30.0,F,Zamora,2023-05-07
+103,Pío,Sales,31.0,,Asturias,2022-11-21
+104,Gastón,Riba,22.0,M,Cantabria,2023-02-16
+105,Fulgencio,Sans,21.0,F,null,2024-01-21
+106,Florencia,Lillo,101.0,M,La Rioja,2024-10-09
+107,Bernardo,Valverde,40.0,F,Barcelona,null
+108,Belen,Pastor,25.0,F,La Coruña,2025-02-09
+109,Reyna,Vallés,27.0,M,Castellón,1999-11-06
+110,Hilda,Milla,36.0,M,Navarra,1996-03-09
+111,Maxi,Carreño,22.0,F,Madrid,2023-03-15
+112,Roxana,Martin,35.0,F,Ourense,2024-11-26
+113,Porfirio,Cuervo,32.0,M,Soria,2023-11-21
+114,Ani,Neira,27.0,F,null,2023-02-25
+115,Olegario,null,19.0,F,Barcelona,2024-02-23
+116,Josefa,Montserrat,25.0,F,Jaén,2023-02-17
+117,Eliana,Díaz,38.0,F,Málaga,1996-12-08
+118,Jenny,null,31.0,M,Teruel,2025-02-08
+119,Úrsula,Fiol,23.0,F,Valencia,2023-02-02
+120,Casandra,Quintero,20.0,M,Sevilla,2023-05-29
+121,Tadeo,Cañete,29.0,,null,2025-04-05
+122,Iván,Busquets,36.0,F,Valencia,2024-12-28
+123,null,Rojas,37.0,M,Cuenca,2024-03-28
+124,Francisco,Merino,19.0,F,Ourense,2025-02-05
+125,Aníbal,Mena,29.0,F,Huelva,2023-03-02
+126,Borja,Vall,37.0,F,null,2024-02-08
+127,Omar,Morata,21.0,F,Vizcaya,2024-09-23
+128,Néstor,Bastida,21.0,F,null,2023-03-10
+129,Gustavo,Pulido,null,M,null,2022-09-03
+130,Isabel,Santamaría,28.0,M,Cantabria,2023-05-24
+131,Efraín,Cerezo,21.0,M,La Coruña,2023-05-16
+132,Jose Luis,Maza,null,M,Las Palmas,2024-05-29
+133,Luciano,Cornejo,34.0,M,Guadalajara,2022-12-25
+134,Calisto,Martorell,18.0,,Huesca,2024-11-15
+135,Máxima,Rodrigo,20.0,M,null,2023-02-08
+136,Carmina,Santos,37.0,F,Las Palmas,2023-08-23
+137,Marcos,Teruel,35.0,M,Ourense,2024-10-06
+138,Olegario,Bolaños,21.0,F,Madrid,2023-02-03
+139,Ricarda,Mir,-3.0,1,Cuenca,2022-08-18
+140,Tomasa,Alcolea,21.0,F,Palencia,2022-07-19
+141,Teo,Calderon,36.0,M,Córdoba,2024-03-04
+142,Dionisia,Abascal,26.0,F,Pontevedra,2023-09-17
+143,Sergio,Enríquez,18.0,F,null,2024-07-22
+144,Remedios,Pla,23.0,F,null,2023-11-01
+145,Paulina,null,30.0,F,Zaragoza,2023-07-19
+146,Concha,Cisneros,19.0,M,Vizcaya,2023-08-25
+147,Paulina,Villar,26.0,M,Las Palmas,2024-01-02
+148,Narciso,Almazán,27.0,,Alicante,null
+149,Luciano,Bolaños,26.0,M,null,2025-03-17
+150,Daniela,Montesinos,34.0,F,null,2024-03-06
+151,null,null,28.0,F,Las Palmas,2023-08-30
+152,Hugo,null,37.0,F,null,2024-07-30
+153,Carmen,Robledo,30.0,F,Álava,2025-04-17
+154,null,Borja,24.0,F,Tarragona,2024-04-13
+155,Pedro,Martinez,26.0,M,Huelva,2024-06-12
+156,Aristides,Luján,36.0,F,Toledo,2023-09-10
+157,Loida,Roman,38.0,F,null,2023-11-11
+158,Ileana,Berrocal,-3.0,M,Burgos,2024-07-09
+159,Olivia,Novoa,109.0,M,Santa Cruz de Tenerife,2023-07-31
+160,Francisca,Parejo,22.0,F,Albacete,2023-10-03
+161,Victoriano,Pagès,23.0,,Melilla,2023-05-17
+162,Evita,Guillén,30.0,F,Cáceres,1997-09-14
+163,null,null,27.0,M,Cáceres,2025-04-22
+164,Vilma,Abascal,40.0,M,Toledo,2023-01-10
+165,Consuela,Báez,22.0,M,Guadalajara,2024-04-06
+166,Lourdes,Morante,24.0,F,Valencia,2023-05-30
+167,Maximiano,Egea,34.0,M,Salamanca,2023-11-09
+168,Isaura,Castell,23.0,M,Ceuta,2000-11-05
+169,Íngrid,Alfonso,27.0,F,Álava,2024-07-18
+170,Bartolomé,Llamas,24.0,F,Guadalajara,2024-03-08
+171,Anastasia,Benito,24.0,M,Teruel,2004-01-26
+172,Delfina,Aguado,34.0,F,null,2023-08-31
+173,Alejandra,Matas,20.0,M,Madrid,2023-02-25
+174,Horacio,Pozo,29.0,M,La Rioja,null
+175,Yolanda,Romeu,22.0,,Teruel,2025-04-11
+176,Ciro,Cortina,-3.0,M,Cáceres,2024-04-12
+177,Jenaro,Castro,27.0,M,Soria,2023-10-20
+178,Marcos,Ribas,37.0,M,Valladolid,2024-08-12
+179,null,Garay,23.0,M,Salamanca,2024-08-11
+180,Juan Pablo,Zaragoza,34.0,F,Málaga,2002-10-02
+181,Teobaldo,Saez,null,M,Melilla,2023-08-02
+182,Noelia,null,38.0,F,Cádiz,2022-10-17
+183,Alejo,Campoy,32.0,X,null,2023-08-28
+184,null,Amaya,35.0,M,Zamora,2024-01-28
+185,Nidia,Guerrero,28.0,F,Córdoba,2023-07-31
+186,Efraín,Frutos,23.0,F,Cáceres,2024-03-05
+187,Vicente,null,31.0,M,Palencia,2023-02-01
+188,null,Manzano,37.0,M,Murcia,2023-05-02
+189,null,Múñiz,31.0,M,null,2024-07-28
+190,Fidela,Luís,18.0,F,null,2000-10-23
+191,Carmen,Guerra,-1.0,M,Murcia,2023-03-18
+192,Lorenzo,Guardia,21.0,X,Soria,2024-05-01
+193,Abel,Díaz,32.0,F,Navarra,2022-09-02
+194,Chus,Palmer,null,F,Toledo,2024-06-22
+195,Lalo,Salvador,23.0,M,Murcia,2022-05-13
+196,Ana,Castelló,33.0,1,Ávila,2024-11-16
+197,Prudencia,Elías,110.0,F,Badajoz,2005-03-15
+198,Samuel,Vendrell,29.0,M,Melilla,2023-04-08
+199,Ana Sofía,Almansa,34.0,M,Zamora,2022-05-15
+200,Rodolfo,Sanjuan,27.0,F,Huesca,2025-05-03
+201,Alfredo,Bustamante,20.0,M,Ourense,2022-06-28
+202,Teodora,Matas,28.0,M,Badajoz,null
+203,Celso,Llorente,24.0,F,Álava,1996-08-28
+204,Gisela,Quero,39.0,F,null,1997-02-03
+205,María Carmen,Leon,22.0,F,Badajoz,2024-02-01
+206,Marcela,Vilanova,35.0,M,Ceuta,2024-11-09
+207,Teodora,null,30.0,F,Albacete,2024-08-31
+208,Concha,Blanca,28.0,M,Soria,2024-09-29
+209,Anastasio,Jove,7.0,M,Valencia,2002-03-28
+210,José Ángel,Huguet,33.0,M,Zamora,2023-10-15
+211,Vicente,Colom,29.0,null,Álava,2024-09-10
+212,Mariana,null,35.0,M,Huelva,2003-01-10
+213,Manuel,Alberola,22.0,F,Huelva,null
+214,Albino,Rivas,22.0,M,Álava,2022-11-21
+215,Nicodemo,Paniagua,27.0,F,Jaén,2023-06-13
+216,Lucio,Cortés,31.0,M,Soria,2023-10-11
+217,Silvestre,Martorell,25.0,F,Lleida,2022-12-23
+218,Rodolfo,Varela,39.0,M,Guipúzcoa,2024-12-18
+219,Emigdio,Manrique,34.0,F,La Rioja,2023-05-12
+220,null,Sanchez,28.0,F,Badajoz,2023-07-08
+221,Ulises,Pineda,29.0,F,Badajoz,2024-03-11
+222,Victoria,Caballero,27.0,M,Valladolid,2024-01-12
+223,Feliciano,Andrade,26.0,F,Málaga,2025-04-08
+224,Candela,Benet,19.0,M,Ceuta,2024-08-02
+225,Abel,Rosado,35.0,F,Segovia,2023-07-29
+226,Maximiano,Zaragoza,34.0,M,null,2022-10-05
+227,Olegario,Polo,18.0,M,Palencia,2022-10-13
+228,Chita,Valentín,27.0,M,Albacete,null
+229,Benigna,Roman,23.0,M,Lleida,2002-11-24
+230,Jenny,Jove,27.0,M,Ourense,2022-11-02
+231,Yéssica,Mercader,38.0,F,Lleida,2024-08-09
+232,Herminio,Aparicio,28.0,F,Valladolid,2024-12-12
+233,null,Ruiz,39.0,M,Álava,2023-08-19
+234,Porfirio,Patiño,30.0,M,Sevilla,2025-01-09
+235,Teo,null,32.0,F,Málaga,2025-04-09
+236,null,Escrivá,19.0,F,Madrid,2024-12-03
+237,Ruy,González,27.0,F,Madrid,2025-04-08
+238,Azahar,Godoy,37.0,F,Huelva,2023-12-03
+239,Gonzalo,Espada,37.0,M,Jaén,2022-08-05
+240,Cruz,Julián,35.0,M,Toledo,2022-12-17
+241,Juana,Ortiz,24.0,F,null,2025-01-11
+242,Ariadna,Escrivá,32.0,F,Málaga,2023-06-12
+243,null,Alfaro,null,1,Almería,2023-06-28
+244,null,Villa,33.0,,Albacete,2025-04-02
+245,David,Quirós,29.0,F,Ceuta,2023-06-19
+246,Josué,null,35.0,F,Asturias,2024-10-22
+247,Maricela,Viñas,18.0,F,Ourense,2024-05-09
+248,Yago,Borrás,32.0,F,Segovia,2023-08-06
+249,Toni,null,37.0,M,Palencia,null
+250,Ester,Barral,25.0,F,Lugo,2024-03-20
+251,Priscila,Goicoechea,27.0,F,Córdoba,2025-05-11
+252,Nicodemo,Egea,39.0,F,Ourense,null
+253,Débora,Nogueira,29.0,F,Huesca,2024-06-09
+254,Carmen,Alberola,35.0,M,Huesca,2025-05-06
+255,Felipe,Torrecilla,31.0,M,Albacete,2024-06-27
+256,Ceferino,null,29.0,X,null,2022-09-23
+257,Calixto,null,null,F,La Rioja,2023-11-02
+258,Cayetana,Teruel,33.0,M,Toledo,2022-10-22
+259,Rosario,Llabrés,38.0,F,Zamora,2024-05-12
+260,Pánfilo,Águila,28.0,F,Huelva,null
+261,Arsenio,null,36.0,F,Guadalajara,2023-01-03
+262,Álvaro,Lluch,35.0,F,Granada,2024-04-15
+263,Haroldo,Somoza,23.0,F,Málaga,2022-09-25
+264,Flor,Vergara,38.0,M,Murcia,null
+265,Flavio,Solé,25.0,X,null,2024-02-06
+266,Abel,Muñoz,37.0,F,null,2022-12-20
+267,Chita,null,35.0,M,Pontevedra,2022-07-22
+268,Gracia,Polo,21.0,M,Guipúzcoa,2023-05-17
+269,Ricarda,Navarrete,29.0,F,Murcia,2024-10-05
+270,Marcela,Piña,38.0,M,null,2023-10-01
+271,Blanca,null,0.0,F,Huesca,2023-08-30
+272,null,España,1.0,M,Álava,2023-08-25
+273,Xavier,Caparrós,28.0,X,Barcelona,2024-09-01
+274,Cándido,Ponce,null,F,Huelva,2023-05-06
+275,Josep,Malo,40.0,F,null,2023-05-02
+276,Jose Luis,Cuevas,37.0,F,null,2023-07-08
+277,Jordi,Peñalver,30.0,F,null,2025-02-28
+278,Eugenio,Valenciano,104.0,M,Girona,2024-01-08
+279,Anabel,null,29.0,M,Cantabria,2024-12-29
+280,Graciela,Zorrilla,18.0,null,Salamanca,2023-03-04
+281,Jose Miguel,null,20.0,M,Burgos,2022-07-09
+282,Primitivo,Abella,33.0,M,Almería,2022-09-23
+283,Ariel,null,25.0,F,Zamora,2023-03-21
+284,Anna,Corral,28.0,F,Pontevedra,2023-09-13
+285,Amador,Madrid,37.0,F,Santa Cruz de Tenerife,2025-02-09
+286,Mamen,Duran,28.0,F,Madrid,2024-02-01
+287,Samuel,Casanova,29.0,M,Las Palmas,2024-03-16
+288,Amador,Bellido,32.0,M,Huelva,2022-09-18
+289,Casandra,Zurita,31.0,M,Tarragona,2024-03-22
+290,Aitana,Burgos,20.0,F,León,2023-12-08
+291,Sandalio,Cabello,19.0,F,Córdoba,2023-04-30
+292,Azucena,Marco,25.0,F,Sevilla,2022-08-13
+293,Victor,Soler,28.0,F,Almería,null
+294,Marina,Vilalta,36.0,F,Albacete,2022-11-09
+295,Yaiza,Camacho,18.0,F,Málaga,2023-12-28
+296,Georgina,Pallarès,27.0,M,Valladolid,2025-05-07
+297,null,Beltran,20.0,M,null,2025-04-18
+298,Íngrid,Adadia,25.0,M,Murcia,2023-06-30
+299,Clarisa,Romero,23.0,F,Jaén,2025-03-04
+300,Quirino,Simó,18.0,M,Álava,2023-03-14
+301,Piedad,Arco,35.0,F,León,2023-08-18
+302,Nando,Navarro,28.0,F,Soria,2025-03-21
+303,Juanito,Larrea,40.0,M,Cantabria,2024-11-22
+304,Tecla,Bellido,22.0,F,Las Palmas,2025-03-23
+305,Darío,Coll,38.0,M,Pontevedra,2022-07-11
+306,Severo,Patiño,19.0,M,Cuenca,2025-05-09
+307,Julia,Sastre,31.0,F,Lleida,2023-10-18
+308,Ciríaco,Amador,25.0,F,Baleares,2022-10-30
+309,Juan Pablo,Beltran,33.0,M,Lugo,2022-05-24
+310,Hilda,Benavente,19.0,F,Barcelona,2023-10-20
+311,Lucio,Gargallo,27.0,M,Girona,2023-04-05
+312,Rafael,Cerezo,25.0,F,Álava,2022-07-25
+313,Griselda,Ordóñez,24.0,F,Zamora,2022-05-21
+314,Chucho,Rivero,36.0,M,La Rioja,2025-04-28
+315,Delfina,null,38.0,M,Huelva,2022-11-26
+316,Azeneth,Valdés,33.0,F,Pontevedra,2022-08-31
+317,null,Valls,30.0,F,Ávila,2025-04-20
+318,Francisco,Lobo,20.0,F,Barcelona,2024-01-19
+319,Tristán,Bárcena,31.0,F,Málaga,2024-10-21
+320,Borja,Gil,33.0,M,null,2023-11-15
+321,Albino,null,23.0,M,Barcelona,2022-12-01
+322,Rocío,Salom,27.0,F,null,2022-05-23
+323,null,Benítez,19.0,F,Tarragona,2025-04-02
+324,Nadia,null,null,M,León,2025-03-13
+325,null,Poza,31.0,F,null,2023-01-16
+326,Dorotea,Gallart,27.0,M,Las Palmas,2024-03-26
+327,null,Villalba,23.0,M,Tarragona,2025-04-06
+328,Mariano,Nuñez,20.0,M,Baleares,2023-06-10
+329,Adelina,Villalba,22.0,M,Teruel,2024-03-13
+330,Nacio,Cal,18.0,F,Vizcaya,2023-11-10
+331,Marisol,Corbacho,25.0,M,Ávila,2023-07-19
+332,null,Navarrete,null,F,Girona,2022-08-07
+333,Olalla,Torrens,18.0,M,Toledo,null
+334,Feliciano,Seguí,40.0,F,Girona,2023-06-04
+335,Marco,Escamilla,20.0,M,Alicante,2023-08-26
+336,Loreto,Arnaiz,38.0,M,Sevilla,2022-11-04
+337,Salomé,Benet,31.0,M,Granada,2023-06-20
+338,Carolina,Landa,40.0,,Jaén,2023-07-27
+339,Laura,Torrens,22.0,F,Santa Cruz de Tenerife,2025-02-07
+340,Francisco Javier,Cortes,34.0,null,Burgos,2024-07-26
+341,null,Gámez,23.0,M,Alicante,2022-10-08
+342,Lupe,Báez,null,F,Guipúzcoa,2024-11-21
+343,Eligio,null,40.0,F,Cáceres,2023-01-12
+344,Miguela,Marqués,36.0,M,Madrid,2023-02-14
+345,Porfirio,Murcia,9.0,F,null,2024-03-21
+346,Hugo,Viña,32.0,F,Guadalajara,2022-05-24
+347,Régulo,Nicolau,22.0,,null,2024-07-09
+348,Esteban,Moles,80.0,F,Soria,2022-06-20
+349,Hortensia,Navarrete,null,X,Palencia,2024-01-08
+350,Andrea,Calderón,20.0,M,Lugo,2022-08-30
+351,Alejandro,null,22.0,F,Cantabria,2025-04-27
+352,Teresita,Valderrama,32.0,M,Jaén,2024-11-08
+353,Jose,Fuertes,32.0,F,Córdoba,2024-04-15
+354,Lázaro,Garriga,21.0,1,Segovia,2024-08-04
+355,null,Dávila,20.0,F,Cuenca,1998-06-01
+356,Loreto,Cadenas,108.0,M,null,2023-05-19
+357,Jose Carlos,Jover,null,F,Badajoz,2023-04-22
+358,null,Chico,20.0,null,Ourense,2024-05-01
+359,Hector,null,28.0,F,null,2023-05-31
+360,Benjamín,Neira,30.0,M,Huelva,2022-11-01
+361,Iris,Aguiló,37.0,M,Toledo,2024-06-22
+362,Patricia,Daza,7.0,M,Sevilla,2022-08-25
+363,Pedro,Bustos,29.0,F,Barcelona,2022-09-15
+364,Haroldo,Bueno,2.0,,Soria,2023-06-29
+365,Modesta,Mancebo,39.0,M,La Coruña,2023-06-22
+366,María Pilar,Trujillo,23.0,F,Zaragoza,2024-12-23
+367,Margarita,null,36.0,M,Ourense,2024-06-09
+368,Manuelita,Bautista,19.0,X,Ávila,1999-08-04
+369,null,Cantero,22.0,M,Burgos,2025-03-26
+370,Enrique,null,22.0,F,Las Palmas,2023-05-30
+371,Néstor,Sacristán,27.0,M,Zamora,2023-09-01
+372,Alonso,Vicens,40.0,F,Albacete,2024-08-02
+373,Loreto,Martin,22.0,M,Cuenca,2023-12-10
+374,Guiomar,Checa,19.0,F,Navarra,2024-07-30
+375,Yéssica,Porcel,22.0,M,Pontevedra,2024-04-27
+376,Andrea,Muñoz,null,M,Pontevedra,2022-09-05
+377,Encarnacion,Portillo,null,F,Vizcaya,2024-07-07
+378,Clotilde,Espada,36.0,M,Jaén,null
+379,Ofelia,Torre,20.0,F,Barcelona,null
+380,Elisabet,Duque,40.0,X,Girona,2025-02-18
+381,null,Ochoa,31.0,F,Salamanca,2023-06-11
+382,null,Márquez,33.0,F,null,1999-01-26
+383,Eusebio,null,27.0,F,Sevilla,2023-11-02
+384,Máximo,Martorell,20.0,F,Zamora,2023-04-28
+385,Angelino,Lozano,32.0,F,Jaén,2023-08-09
+386,Sol,null,35.0,M,Burgos,2022-10-30
+387,Andrés,Asenjo,33.0,M,Las Palmas,null
+388,Cleto,Losa,39.0,M,Vizcaya,2024-06-05
+389,Ruben,Barbero,24.0,F,null,2024-08-02
+390,Jacobo,Granados,37.0,M,null,2024-10-06
+391,Charo,Porras,18.0,F,Segovia,2024-01-14
+392,Carmen,Fonseca,21.0,M,Palencia,2022-12-26
+393,Gabriela,Llorens,38.0,F,null,2022-06-25
+394,Elisabet,García,19.0,F,Toledo,2001-08-17
+395,Mercedes,Cervantes,4.0,M,Guadalajara,2022-11-29
+396,Édgar,Caballero,28.0,F,Baleares,1999-04-21
+397,Silvestre,Caballero,34.0,M,Barcelona,2025-04-03
+398,Marisela,Madrigal,34.0,M,Vizcaya,2023-06-29
+399,Hilario,null,103.0,F,La Coruña,2024-01-03
+400,Manu,Maldonado,111.0,F,Zamora,2022-08-08
+401,Eladio,Garcia,40.0,null,Soria,2023-03-27
+402,Bartolomé,Mena,38.0,M,Salamanca,2023-09-27
+403,null,Almagro,18.0,M,Santa Cruz de Tenerife,2024-03-18
+404,null,Nadal,27.0,F,Santa Cruz de Tenerife,2025-05-06
+405,Consuelo,Guzmán,39.0,F,Murcia,2001-07-27
+406,Juanito,Ballester,39.0,M,Cádiz,2025-02-10
+407,Lara,Girón,38.0,M,Lleida,2025-04-07
+408,null,Marti,30.0,M,Guadalajara,2022-08-04
+409,Luis,Bayona,30.0,M,Guipúzcoa,2023-10-24
+410,Candelaria,Aguirre,39.0,F,Navarra,2025-02-15
+411,Emilio,Pujadas,96.0,M,Teruel,2024-08-03
+412,Regina,Águila,27.0,F,Santa Cruz de Tenerife,2025-02-08
+413,Narciso,Chaparro,null,F,Barcelona,2023-03-15
+414,Feliciana,Gómez,28.0,F,Las Palmas,2022-07-21
+415,Inés,null,23.0,M,null,2023-11-08
+416,Severiano,Cañas,33.0,M,Melilla,2022-11-23
+417,Nicolasa,Lastra,18.0,X,Girona,2023-10-02
+418,Aurelia,Iglesia,18.0,M,Cáceres,2025-01-16
+419,Lázaro,Amador,27.0,M,Girona,2023-09-16
+420,Anastasio,Vilanova,39.0,F,Cantabria,2024-12-17
+421,Jovita,Pizarro,30.0,X,Vizcaya,2023-09-11
+422,Reyes,Méndez,29.0,M,Barcelona,2025-01-22
+423,Calixto,Sales,19.0,M,null,2023-12-01
+424,Ernesto,Alcaraz,40.0,M,Girona,2023-03-25
+425,Cebrián,Núñez,22.0,M,Córdoba,2023-11-26
+426,Pánfilo,Pastor,37.0,F,Valencia,2023-10-01
+427,Odalys,Peñas,35.0,M,La Rioja,2024-07-22
+428,Josefa,null,116.0,M,Soria,null
+429,Gilberto,Figuerola,27.0,M,null,2025-03-11
+430,null,Ferrán,28.0,M,null,2023-02-01
+431,null,Sánchez,23.0,F,Melilla,2025-02-07
+432,Saturnina,Enríquez,21.0,F,Cáceres,2024-05-11
+433,Marianela,Vives,23.0,M,Cáceres,2023-06-26
+434,Bibiana,Alba,36.0,M,Valencia,2023-07-18
+435,Lorenzo,Sans,22.0,F,Toledo,2025-04-22
+436,null,Cueto,40.0,M,Guipúzcoa,2025-02-07
+437,Humberto,Cornejo,21.0,M,Asturias,2022-09-28
+438,Renata,Figueroa,37.0,X,Granada,2024-08-23
+439,Yaiza,Blanco,28.0,F,null,2025-02-08
+440,Rogelio,Zamora,32.0,F,null,2022-09-15
+441,Lupe,Dueñas,18.0,F,null,2024-11-21
+442,Clímaco,Calderón,38.0,M,Burgos,2023-12-25
+443,Yolanda,Milla,32.0,F,La Rioja,2023-08-24
+444,Salomé,null,18.0,F,Cáceres,2023-07-30
+445,Onofre,Ureña,40.0,F,Huesca,2023-08-29
+446,Valentín,Pons,32.0,M,Almería,2024-07-03
+447,Piedad,Sanjuan,36.0,F,Zaragoza,2023-06-16
+448,Humberto,Peinado,-4.0,F,Ceuta,2023-10-19
+449,Teresita,Barros,22.0,F,Ourense,2025-04-27
+450,Ignacia,Aguilar,26.0,F,Ávila,2024-09-25
+451,Francisco Javier,Comas,34.0,F,Albacete,2024-06-08
+452,Juan Manuel,Gimenez,27.0,M,Madrid,2022-11-07
+453,Guillermo,Salazar,28.0,F,Segovia,2024-08-01
+454,Paloma,Mena,35.0,F,Barcelona,2022-12-29
+455,null,Lorenzo,24.0,M,Almería,2025-03-07
+456,Pascual,null,24.0,M,Castellón,2022-09-14
+457,Aarón,Perera,25.0,F,Ceuta,2024-04-19
+458,Saturnino,Zapata,30.0,F,La Rioja,1997-10-14
+459,Julio César,Silva,32.0,F,Huelva,2023-11-14
+460,Domingo,Amador,27.0,M,Girona,2023-03-18
+461,Lina,Folch,35.0,M,La Coruña,2023-05-28
+462,Cleto,Mendizábal,22.0,M,Huelva,2024-11-04
+463,Rita,Barberá,35.0,F,Valencia,2024-04-21
+464,Fortunato,Ordóñez,35.0,M,Santa Cruz de Tenerife,2022-06-12
+465,Primitivo,Olmo,37.0,M,La Rioja,2023-08-25
+466,Clara,Murillo,25.0,F,Cuenca,2024-08-13
+467,Emigdio,Macias,18.0,F,Segovia,2024-09-24
+468,Flavia,Olivares,28.0,M,Zaragoza,2023-05-20
+469,Aroa,null,null,F,Cuenca,2023-01-03
+470,Marcia,Salamanca,28.0,null,null,2023-05-02
+471,Federico,Cuevas,26.0,F,Cuenca,2022-07-25
+472,null,Recio,38.0,M,Navarra,2022-07-05
+473,Jeremías,null,21.0,F,Huelva,2024-07-22
+474,Serafina,Estévez,18.0,M,Huesca,2023-12-31
+475,Liliana,Oliver,22.0,F,Granada,null
+476,Bruno,null,35.0,M,Córdoba,2024-05-16
+477,Hernán,Gutierrez,38.0,M,Tarragona,2024-05-05
+478,Lucho,Iñiguez,36.0,F,Tarragona,null
+479,Jacobo,Uribe,28.0,M,Badajoz,2023-02-20
+480,Pepito,Llabrés,37.0,M,Segovia,2024-04-08
+481,Evaristo,Riquelme,94.0,F,Alicante,2023-08-22
+482,Aránzazu,Redondo,32.0,F,Ciudad,2023-11-15
+483,Mamen,null,22.0,M,Huesca,2023-11-19
+484,null,null,117.0,M,Las Palmas,2024-05-27
+485,Bartolomé,Bayo,22.0,M,Girona,2022-11-03
+486,Emma,Luís,20.0,M,Cáceres,2023-11-27
+487,Amaya,Higueras,34.0,M,Asturias,2024-04-10
+488,Mauricio,Caro,33.0,M,Pontevedra,2022-12-13
+489,null,Reguera,1.0,F,León,2001-01-17
+490,Anna,Viñas,26.0,F,Córdoba,2022-05-19
+491,Anastasio,Molins,20.0,F,Valladolid,2023-04-13
+492,Eligia,Bou,33.0,M,Palencia,2023-05-15
+493,Fabiana,null,24.0,M,Navarra,2022-11-20
+494,Cruz,Bustamante,21.0,F,Cádiz,2022-10-02
+495,Vidal,Ribas,22.0,M,Ceuta,2022-06-28
+496,Lucas,Alarcón,23.0,F,Las Palmas,2024-03-16
+497,null,Villalba,27.0,M,Badajoz,2024-06-07
+498,Gonzalo,Meléndez,37.0,M,Almería,2025-03-30
+499,Onofre,Sáez,37.0,M,Teruel,2023-12-01
+500,null,Peñas,39.0,M,Vizcaya,2023-12-24
+501,Dionisio,Ariza,35.0,M,null,2025-04-27
+502,Leopoldo,Iborra,8.0,M,Albacete,2024-11-09
+503,Santos,Hernández,29.0,M,Navarra,2023-02-07
+504,Teodoro,Fernandez,null,null,Guadalajara,2025-01-09
+505,null,Alcázar,28.0,M,Valencia,2023-05-17
+506,Marcela,Valverde,29.0,F,Valencia,2023-06-20
+507,Guadalupe,Ferrándiz,35.0,F,Málaga,2022-06-05
+508,Evangelina,Manjón,21.0,F,Madrid,2023-12-25
+509,Socorro,Bonet,35.0,M,Huesca,2022-12-25
+510,null,null,37.0,M,Alicante,2024-03-05
+511,Modesto,Ávila,30.0,F,Ceuta,2025-05-06
+512,Ale,Ángel,32.0,1,Toledo,2022-07-08
+513,Aitana,Cerdá,39.0,X,Castellón,2024-10-02
+514,null,Osorio,39.0,M,Badajoz,2023-12-11
+515,null,null,35.0,F,Valladolid,2023-04-23
+516,Carlota,Castañeda,30.0,F,Guadalajara,2023-07-07
+517,Bernardo,Salcedo,21.0,F,Pontevedra,2022-06-16
+518,Angelino,Infante,36.0,M,Asturias,2024-02-07
+519,Prudencia,Bauzà,18.0,F,null,2024-07-30
+520,Apolonia,Blanco,28.0,F,La Rioja,2003-12-24
+521,Pía,null,28.0,X,Guadalajara,2022-06-28
+522,Lázaro,Sevilla,39.0,M,Guipúzcoa,2022-06-16
+523,Agustina,Carvajal,24.0,F,Tarragona,2022-12-07
+524,Mar,Soria,37.0,null,Castellón,2023-05-06
+525,María Jesús,Nuñez,36.0,F,Ceuta,2024-03-14
+526,Rico,Maldonado,22.0,,Asturias,2024-07-01
+527,Chelo,Alberto,23.0,M,Granada,2024-05-16
+528,Claudia,null,36.0,F,Jaén,2023-03-01
+529,Reyna,Ferreras,37.0,M,Soria,2024-12-18
+530,Martina,Rivas,26.0,M,Badajoz,2024-09-12
+531,Florentino,Valle,35.0,F,Guadalajara,2025-04-06
+532,Ema,Caparrós,null,F,Málaga,2024-08-07
+533,Ágata,Díez,40.0,M,Ciudad,2024-11-17
+534,Chita,Aguilar,29.0,F,Segovia,2024-01-23
+535,Quique,Vigil,36.0,M,Ceuta,2023-10-27
+536,Nilo,Hernández,32.0,F,Cuenca,2022-12-11
+537,Primitivo,Lucena,28.0,F,Santa Cruz de Tenerife,null
+538,Eva María,Valderrama,40.0,F,Pontevedra,2023-06-03
+539,Toño,Cabo,32.0,M,Álava,2022-12-29
+540,Imelda,Clavero,20.0,F,Cádiz,1997-12-15
+541,Pili,null,20.0,M,null,2022-07-30
+542,Nicolás,Gracia,32.0,M,León,2022-05-27
+543,null,Abril,33.0,F,Lleida,2024-09-06
+544,Virginia,Viana,32.0,F,Alicante,2022-08-25
+545,Tania,Plaza,20.0,F,Cáceres,2022-07-11
+546,null,Palacios,22.0,F,Pontevedra,2025-01-18
+547,Mayte,Ávila,31.0,M,Zaragoza,2023-04-19
+548,Juanito,Marcos,25.0,F,Guadalajara,2024-07-31
+549,null,Correa,37.0,F,Tarragona,2025-01-29
+550,Candelas,Bosch,23.0,M,Huelva,2024-01-30
+551,Domitila,Burgos,18.0,M,Guipúzcoa,2024-01-18
+552,Narciso,Marti,25.0,null,Madrid,2022-06-12
+553,Fabián,Rebollo,32.0,M,Lugo,2023-08-16
+554,Daniela,null,20.0,M,Albacete,2023-07-28
+555,Reyes,Elorza,40.0,F,Huelva,2022-05-27
+556,Cristina,Botella,1.0,F,Baleares,2023-11-19
+557,Baltasar,Gutierrez,21.0,F,Madrid,2025-03-11
+558,Nicolasa,Benavente,38.0,M,Albacete,2023-05-15
+559,Sandalio,Prieto,117.0,M,La Coruña,null
+560,Haroldo,Bonilla,38.0,1,Castellón,2024-06-09
+561,Marina,Somoza,35.0,F,Barcelona,2022-11-10
+562,Charo,Dávila,22.0,M,Cuenca,2024-09-18
+563,Pepita,Quero,23.0,F,Almería,2022-09-23
+564,Rufina,Mancebo,20.0,F,Tarragona,2025-02-14
+565,Melania,null,30.0,M,Guipúzcoa,2024-02-24
+566,María Teresa,Bertrán,92.0,M,La Coruña,2023-08-26
+567,Agustín,Valle,20.0,X,La Rioja,null
+568,Soledad,null,30.0,F,null,2024-07-25
+569,Andrés,null,38.0,M,Lleida,2023-03-10
+570,Eulalia,Gutiérrez,29.0,M,Tarragona,2022-12-30
+571,null,null,24.0,M,Asturias,2024-08-06
+572,Ceferino,Bonilla,36.0,M,Salamanca,2023-01-06
+573,Arturo,Carmona,39.0,F,Cádiz,2025-01-03
+574,Fernanda,Malo,23.0,F,Lugo,2025-05-01
+575,Chucho,Folch,31.0,F,Madrid,2023-03-02
+576,Teófila,Vilanova,35.0,F,Tarragona,2022-07-19
+577,Pascuala,null,null,F,null,2023-08-15
+578,Ignacio,Castell,40.0,M,null,2025-02-09
+579,Dan,Sacristán,25.0,F,null,2024-05-13
+580,Eusebia,Jove,33.0,M,Murcia,2022-05-27
+581,Ale,Barón,-4.0,F,Granada,2024-09-03
+582,Angélica,Balaguer,37.0,F,null,2022-08-03
+583,Sara,Rueda,40.0,M,Vizcaya,2024-11-23
+584,Arsenio,Calvo,20.0,F,Vizcaya,2022-06-04
+585,Josué,Maza,35.0,M,Almería,2024-11-09
+586,Victor Manuel,Pérez,24.0,M,Melilla,2024-10-24
+587,Azucena,Rodrigo,31.0,M,Almería,2023-08-12
+588,Ciro,Águila,38.0,1,Tarragona,2023-07-14
+589,Adelardo,Valbuena,32.0,X,Barcelona,2024-02-05
+590,Custodio,León,19.0,M,Málaga,2024-09-15
+591,null,Jove,32.0,F,Salamanca,2024-05-16
+592,Xiomara,Carrera,33.0,M,Valencia,2024-11-06
+593,Santos,Falcón,26.0,F,Segovia,2024-02-17
+594,Casandra,Arnal,20.0,F,León,2023-08-20
+595,Ciríaco,Camps,38.0,F,Ciudad,2023-04-13
+596,Cristian,Almeida,20.0,F,Sevilla,2024-12-01
+597,null,Royo,33.0,M,null,2022-09-22
+598,Celestina,Gordillo,34.0,M,Guipúzcoa,2024-01-22
+599,Iker,Baena,null,F,Zaragoza,2004-07-28
+600,Lalo,Galan,39.0,M,Badajoz,2024-11-17
+601,Cristina,Infante,22.0,M,Murcia,2023-07-14
+602,Lola,Lamas,34.0,F,Las Palmas,2024-03-11
+603,Rufina,Egea,28.0,null,Ciudad,2024-05-15
+604,Sofía,null,31.0,F,Cádiz,2024-02-23
+605,Vicente,Torrecilla,24.0,M,null,2024-03-27
+606,Imelda,Camacho,37.0,M,Jaén,2022-07-03
+607,Violeta,Ibarra,40.0,M,Barcelona,2023-04-08
+608,Joaquina,Barba,-5.0,M,Lugo,2005-03-16
+609,Jose Luis,Águila,32.0,F,Teruel,1997-07-14
+610,Victorino,Catalán,36.0,M,Las Palmas,2022-09-23
+611,Ana,null,34.0,M,Álava,2023-05-25
+612,Eutimio,null,30.0,F,León,2023-08-07
+613,Porfirio,null,22.0,F,null,2023-01-01
+614,Noé,Morata,35.0,F,Salamanca,2004-08-03
+615,Rocío,Posada,32.0,1,Navarra,2024-07-12
+616,Candelas,Álvaro,21.0,F,null,2022-08-16
+617,Aníbal,Ortiz,23.0,F,null,2023-02-20
+618,Julio,Casals,23.0,M,Valencia,2002-09-07
+619,Che,Arias,38.0,M,Cuenca,1995-09-21
+620,null,Mateu,18.0,F,Valladolid,2022-11-03
+621,Eusebia,Donaire,95.0,M,null,2022-10-01
+622,Felix,null,39.0,F,Baleares,null
+623,Ismael,Robles,37.0,M,Lleida,2025-01-19
+624,Joan,null,28.0,F,Zamora,2023-10-09
+625,Íngrid,null,21.0,F,Salamanca,2022-09-07
+626,Ismael,Aramburu,110.0,F,Madrid,2023-11-06
+627,Roque,Donaire,22.0,F,Guipúzcoa,2024-02-12
+628,Julio César,Vergara,40.0,M,null,null
+629,Julián,Falcón,31.0,F,Madrid,2023-11-23
+630,Vilma,Noriega,26.0,F,Lugo,2023-02-28
+631,Jose Ramón,Girona,30.0,M,Albacete,2024-02-23
+632,José Luis,Jerez,33.0,M,Córdoba,2024-09-30
+633,Paco,Quintero,31.0,M,Palencia,2023-08-14
+634,Soledad,Calvo,24.0,F,Soria,2022-08-20
+635,Tristán,Aller,18.0,F,Baleares,2023-02-19
+636,Telmo,Criado,27.0,F,Tarragona,2025-03-25
+637,null,Priego,27.0,F,Córdoba,2022-06-07
+638,null,Cruz,110.0,F,Lleida,2022-11-25
+639,Eugenia,Almazán,21.0,M,Cuenca,2004-11-04
+640,Ismael,Castejón,null,M,Lleida,2023-01-06
+641,Ani,null,38.0,F,Lugo,2023-09-29
+642,Roxana,Checa,26.0,F,Toledo,2024-10-05
+643,Fidela,Polo,35.0,M,La Coruña,2022-08-26
+644,Dimas,Lorenzo,28.0,M,Cádiz,2024-05-12
+645,Jordán,Angulo,null,F,Palencia,2022-07-24
+646,Américo,Noguera,35.0,,Ciudad,1996-01-24
+647,null,Carrillo,32.0,M,Santa Cruz de Tenerife,2023-11-17
+648,Jessica,Robledo,39.0,F,Madrid,1998-02-02
+649,Nicolasa,Castañeda,27.0,M,Álava,2024-10-24
+650,Cirino,Domínguez,20.0,F,Barcelona,2023-06-19
+651,Chucho,Arranz,30.0,X,Ciudad,2024-09-02
+652,Bernabé,Arnau,35.0,M,Granada,2004-07-06
+653,Cecilia,Zamorano,21.0,M,Guadalajara,2023-08-26
+654,Anselma,Pazos,30.0,M,null,2024-08-10
+655,Carlito,Garcia,18.0,M,Granada,2024-03-18
+656,Eliseo,Torre,28.0,F,Salamanca,2025-05-01
+657,Emigdio,Rodriguez,36.0,,Huelva,2024-02-29
+658,null,Cañas,18.0,F,Cuenca,2024-02-03
+659,null,Domínguez,38.0,F,Lugo,2024-12-07
+660,Fidel,Valderrama,35.0,F,León,2023-03-23
+661,Alcides,Villalba,20.0,M,Pontevedra,2022-06-28
+662,Inmaculada,Tomas,109.0,F,Sevilla,2023-09-09
+663,Nadia,Barrios,25.0,M,Vizcaya,2023-07-01
+664,Isidoro,Sebastián,35.0,M,Córdoba,2022-06-05
+665,Juan,Hernández,40.0,1,Girona,null
+666,Javier,Madrigal,39.0,1,Tarragona,2022-06-23
+667,Feliciano,null,33.0,F,Murcia,2023-10-19
+668,Macaria,Aranda,4.0,,Guipúzcoa,2025-03-07
+669,Marino,Angulo,18.0,M,Ciudad,1996-05-01
+670,Abraham,Domingo,26.0,null,Palencia,2025-01-14
+671,Jonatan,Rebollo,23.0,M,Huesca,2024-08-21
+672,Valeria,Sanmiguel,null,F,Asturias,2023-11-02
+673,Aníbal,Barceló,29.0,1,Sevilla,2024-03-28
+674,Florencio,Torres,35.0,F,Burgos,2022-07-04
+675,Cruz,null,32.0,F,Segovia,2022-09-02
+676,null,Murcia,31.0,F,Segovia,2023-03-07
+677,null,Heras,39.0,M,Barcelona,2023-06-21
+678,Francisco Javier,Navas,null,M,Ceuta,2023-12-09
+679,Nayara,Alvarado,83.0,M,Huesca,2025-03-29
+680,Selena,Castelló,22.0,M,Navarra,2024-02-07
+681,Esperanza,Diez,38.0,F,León,2023-08-06
+682,Guillermo,Baquero,20.0,M,Soria,2023-11-27
+683,null,Acosta,32.0,X,Melilla,2024-08-13
+684,Valerio,Izquierdo,24.0,M,Huesca,2023-11-23
+685,Guadalupe,null,26.0,M,Ciudad,2024-01-03
+686,Telmo,Amat,26.0,F,León,2022-11-05
+687,Elvira,Ángel,31.0,M,Toledo,1998-04-14
+688,Toni,Quintana,28.0,F,null,2023-01-31
+689,Agustín,Escrivá,28.0,,Ceuta,2022-08-11
+690,Ainoa,Ribes,39.0,F,Badajoz,2023-11-28
+691,Alejandra,null,24.0,M,null,2023-07-09
+692,Jacobo,Zabala,38.0,F,Pontevedra,1995-12-20
+693,null,Jódar,93.0,F,Zamora,2023-09-03
+694,Enrique,Pinilla,20.0,X,Ceuta,null
+695,Juan Pablo,Larrea,null,M,Córdoba,null
+696,Begoña,Mínguez,20.0,F,Madrid,2024-07-31
+697,Heliodoro,Mariscal,39.0,M,Pontevedra,2025-04-27
+698,Gema,null,20.0,M,Sevilla,2022-11-15
+699,Lara,Aguilera,36.0,null,La Rioja,2024-02-14
+700,Eufemia,Aliaga,20.0,X,Girona,2022-08-18
+701,Azahar,Bravo,33.0,M,Granada,2025-01-28
+702,Rosalía,Espejo,40.0,X,Vizcaya,2022-05-25
+703,null,Bartolomé,31.0,X,Lugo,2022-12-03
+704,Juan Carlos,Andreu,35.0,F,La Rioja,2025-01-08
+705,Adoración,Mesa,39.0,F,Albacete,2023-12-19
+706,Guiomar,null,24.0,F,Asturias,2024-01-06
+707,Paloma,Somoza,null,M,null,2024-08-31
+708,Ruperto,Jaume,39.0,M,Valencia,2024-03-21
+709,null,Seco,30.0,M,Melilla,2024-12-19
+710,María Teresa,Valentín,32.0,F,Las Palmas,2024-01-25
+711,Juana,Poza,22.0,null,Murcia,2023-01-05
+712,María Fernanda,Hernandez,25.0,M,Teruel,2022-08-04
+713,María Ángeles,Portero,25.0,,Navarra,2022-11-27
+714,África,Palma,null,M,Huesca,2023-10-11
+715,Agustín,Canals,-4.0,M,Córdoba,2023-03-03
+716,Constanza,Muñoz,null,M,Barcelona,2023-08-30
+717,Xavier,Puerta,20.0,1,Badajoz,2024-04-16
+718,Flora,Sureda,32.0,F,La Coruña,2024-07-22
+719,Daniela,Marín,104.0,M,Huelva,2024-05-02
+720,Venceslás,Campo,24.0,M,Sevilla,2023-03-03
+721,Alonso,Riquelme,29.0,M,La Rioja,2024-04-01
+722,null,Comas,40.0,X,Ávila,2023-10-19
+723,Ciro,Caballero,36.0,M,Navarra,2024-01-04
+724,Marino,Doménech,31.0,M,Cádiz,2025-05-09
+725,Clotilde,Priego,35.0,F,La Rioja,2024-05-26
+726,Adelia,Mur,20.0,F,null,2024-12-18
+727,Alejandro,Maza,null,F,Málaga,2022-08-25
+728,Inmaculada,null,39.0,M,Ceuta,2023-09-23
+729,Adela,null,18.0,M,Almería,2022-07-01
+730,Buenaventura,Calatayud,28.0,F,Burgos,2024-06-20
+731,Zaira,Morán,25.0,F,Ceuta,2004-12-16
+732,Marco,Sosa,23.0,F,Ávila,2023-02-13
+733,Piedad,Pedrosa,23.0,M,Navarra,2022-10-02
+734,Ana Belén,Nicolás,40.0,1,Cuenca,2023-05-06
+735,Eric,Hoyos,21.0,F,Albacete,2025-04-08
+736,Yolanda,Amaya,35.0,F,Teruel,2022-06-11
+737,Benito,Camacho,36.0,F,Valladolid,2022-05-17
+738,Leandra,null,21.0,F,Toledo,2023-06-22
+739,Loida,Cases,24.0,M,Ávila,2025-01-08
+740,Jose Francisco,null,39.0,M,Lleida,2023-05-11
+741,Marcos,Peñas,19.0,F,Melilla,2023-08-12
+742,Itziar,Cabrero,6.0,M,Murcia,2024-01-24
+743,Cecilio,Villaverde,23.0,F,Lugo,2024-08-21
+744,Calixto,Pagès,27.0,F,null,2023-07-16
+745,Che,null,26.0,F,Teruel,2022-12-07
+746,Desiderio,Blázquez,35.0,F,Ávila,2022-12-02
+747,Clemente,Miró,-5.0,F,Cáceres,2024-11-21
+748,Modesto,Baena,38.0,M,Palencia,2022-11-18
+749,Mateo,Royo,33.0,F,Cáceres,2025-02-14
+750,Miguel Ángel,Mora,36.0,1,Guadalajara,1998-09-03
+751,Juan Pablo,Sanabria,19.0,F,Almería,2024-08-08
+752,null,Rosales,20.0,M,Soria,2024-08-18
+753,Hilda,Armengol,39.0,F,Murcia,2022-11-09
+754,null,Cabo,18.0,F,Badajoz,2024-06-14
+755,Lope,Codina,22.0,M,Ciudad,2025-05-10
+756,Jordán,Mulet,40.0,M,Las Palmas,2023-04-06
+757,Nayara,Acuña,99.0,F,Ávila,2023-06-14
+758,Horacio,Larrea,18.0,M,Madrid,2024-03-16
+759,Rosa María,Sedano,22.0,F,Murcia,2023-08-25
+760,null,Castellanos,19.0,M,Teruel,2024-08-20
+761,null,Casares,20.0,M,Álava,2023-07-19
+762,Agapito,Delgado,23.0,M,null,2022-09-08
+763,Jimena,Ojeda,23.0,M,Lleida,null
+764,Jenny,Amo,23.0,M,Teruel,null
+765,Aurelia,Ávila,40.0,F,Valencia,2023-12-25
+766,Dominga,Azorin,34.0,M,Melilla,2022-11-30
+767,Martin,Barrios,29.0,M,null,2024-03-29
+768,Florencia,Vélez,39.0,F,Cuenca,2024-03-19
+769,Consuelo,Giralt,33.0,F,Segovia,2023-07-15
+770,Ana Sofía,Berenguer,39.0,M,Segovia,2024-04-19
+771,Che,Diego,23.0,X,Huelva,2025-04-15
+772,Olivia,Galiano,33.0,F,Asturias,2025-01-14
+773,Marta,Pablo,30.0,F,Alicante,2024-01-04
+774,Rodrigo,Sala,22.0,null,La Rioja,2022-07-13
+775,null,Lasa,28.0,M,Badajoz,2023-06-30
+776,Aureliano,Zapata,27.0,F,Cáceres,2025-05-08
+777,Domitila,Canals,null,F,Baleares,2024-10-02
+778,null,Farré,27.0,M,Cádiz,2024-12-09
+779,Javiera,Hervia,39.0,F,Vizcaya,2024-01-10
+780,Rosa,Jordá,30.0,F,Toledo,2022-11-01
+781,null,Sans,29.0,M,Burgos,2022-05-28
+782,Mar,Azcona,31.0,M,Álava,2024-07-01
+783,Fanny,Armas,4.0,F,null,2022-07-12
+784,Etelvina,Ojeda,18.0,M,Valencia,2024-08-09
+785,Olegario,Fiol,21.0,M,Segovia,2024-09-24
+786,Ambrosio,Escobar,29.0,M,Ceuta,2022-09-18
+787,Zaira,Jove,27.0,F,Girona,2024-01-21
+788,Selena,Tomás,-2.0,F,Almería,2023-09-28
+789,null,Valderrama,27.0,F,La Coruña,2024-10-14
+790,Celestino,Torrecilla,23.0,M,Tarragona,2024-10-02
+791,Baudelio,Sans,38.0,F,Cáceres,2023-10-31
+792,null,Ugarte,25.0,F,Albacete,2023-08-14
+793,Evelia,Santos,31.0,F,La Coruña,2024-07-12
+794,Maricruz,García,24.0,1,Salamanca,2025-02-24
+795,Heraclio,Gómez,null,1,Cantabria,2023-06-24
+796,Lino,Pavón,18.0,null,Madrid,2023-11-01
+797,null,Angulo,39.0,M,Teruel,2023-07-04
+798,Marciano,Morillo,34.0,F,Palencia,null
+799,Demetrio,Calleja,30.0,M,La Rioja,2024-05-18
+800,Evangelina,Riera,31.0,M,Málaga,2023-03-15
+801,Manola,Río,39.0,F,Valencia,2022-10-25
+802,Lola,Sáenz,18.0,M,Salamanca,2022-09-23
+803,Balduino,Reyes,25.0,F,Cáceres,2022-07-12
+804,Atilio,Blázquez,25.0,F,null,2022-12-09
+805,Pepito,Godoy,25.0,M,Melilla,2024-09-18
+806,Luciano,Vall,19.0,M,Valencia,2025-03-17
+807,Juan,Naranjo,40.0,M,Pontevedra,2023-10-16
+808,Apolonia,Zamora,35.0,F,Albacete,2023-02-13
+809,Hector,Bello,38.0,F,Ceuta,2024-11-12
+810,Ascensión,Gonzalo,40.0,M,Teruel,2023-09-19
+811,Flor,Robles,22.0,F,Murcia,2025-01-23
+812,Germán,Plana,36.0,M,Ceuta,2023-06-29
+813,María José,Ortuño,24.0,M,null,2022-12-11
+814,Emilio,Alcolea,23.0,M,null,2023-07-22
+815,Matilde,Crespo,33.0,M,Málaga,2024-12-25
+816,Adela,Roma,22.0,M,Almería,2023-07-24
+817,Nilo,Priego,31.0,M,Salamanca,2023-12-13
+818,Ignacio,Mendez,39.0,M,null,2024-08-09
+819,Aurelio,Castelló,40.0,F,Málaga,2023-01-12
+820,null,null,25.0,F,Cádiz,2022-07-16
+821,Luís,Arnal,19.0,,Huesca,2025-03-22
+822,Jordana,Lastra,36.0,M,Cáceres,2022-06-30
+823,Abril,Gomila,34.0,F,Zaragoza,null
+824,Amancio,Porcel,29.0,F,Málaga,2024-01-27
+825,María Luisa,Gámez,31.0,F,León,2025-01-15
+826,Daniela,Pareja,38.0,M,Huelva,null
+827,null,Roman,31.0,F,null,2024-04-16
+828,Chita,Díez,22.0,M,Cáceres,2022-08-22
+829,Juan Manuel,Enríquez,36.0,M,Guadalajara,2023-04-26
+830,Dorita,Bru,20.0,F,Murcia,2024-01-21
+831,null,Porta,30.0,M,Cáceres,2025-03-25
+832,null,Serna,32.0,F,Valladolid,null
+833,Calista,Llorente,36.0,M,La Coruña,2024-02-27
+834,Saturnina,Solera,37.0,F,Girona,2022-08-06
+835,Áurea,Herrera,1.0,F,Guipúzcoa,2023-05-06
+836,Cesar,Olivares,27.0,M,Madrid,2001-12-31
+837,Modesto,Amaya,33.0,F,null,2024-08-31
+838,Evaristo,Uría,20.0,1,Zamora,2024-03-09
+839,Rafa,Luna,34.0,M,La Coruña,2022-12-23
+840,Marc,Daza,22.0,F,Ceuta,2023-07-14
+841,Anacleto,null,null,F,null,2023-09-12
+842,Rodrigo,Cepeda,20.0,M,La Coruña,2023-12-18
+843,Silvio,Huertas,20.0,F,Girona,2023-12-09
+844,Claudia,Navarrete,28.0,M,Teruel,1997-10-13
+845,Lupe,Cortina,18.0,M,Huesca,2022-12-07
+846,Lucas,Iglesias,37.0,F,Ceuta,2024-02-07
+847,Leopoldo,Calvo,30.0,M,Murcia,null
+848,Tadeo,Ferrera,18.0,M,Tarragona,2022-09-11
+849,Rodolfo,Lobato,27.0,M,Alicante,null
+850,Celestina,Iglesias,33.0,F,Las Palmas,2025-01-25
+851,Cristina,Pinto,86.0,F,Sevilla,2025-02-15
+852,Fabio,Carpio,27.0,,Albacete,2022-10-27
+853,Andrés,Vicente,33.0,M,Pontevedra,2023-12-17
+854,Ruperto,null,31.0,M,Huesca,2025-01-29
+855,Teodoro,Sureda,4.0,M,Girona,2024-09-02
+856,Roberto,Sebastián,40.0,M,Ciudad,2022-07-11
+857,Edu,Castrillo,38.0,F,Segovia,2022-05-20
+858,Alberto,Santamaría,39.0,M,Cádiz,2023-10-30
+859,Valeria,Segovia,27.0,M,Álava,2024-01-17
+860,Aureliano,Armengol,34.0,null,Alicante,2022-09-09
+861,María,Borrell,28.0,M,Santa Cruz de Tenerife,2024-07-23
+862,Ibán,Manso,37.0,M,Ourense,2024-03-07
+863,Belen,Vigil,21.0,M,Tarragona,null
+864,Gilberto,Rosales,29.0,F,Huesca,2022-08-19
+865,Félix,Aller,29.0,M,Vizcaya,2024-04-23
+866,Emma,Diez,10.0,M,Segovia,2023-07-30
+867,Serafina,Segovia,34.0,M,Tarragona,2022-12-15
+868,Enrique,Ramírez,34.0,F,Vizcaya,2024-09-17
+869,Erasmo,Bas,20.0,1,Ceuta,2024-12-29
+870,Remigio,Espinosa,null,F,Huelva,2022-09-29
+871,Magdalena,Riba,28.0,M,Asturias,2023-07-06
+872,Joan,Castañeda,38.0,F,Castellón,2023-10-25
+873,Leandra,Pinedo,27.0,1,La Rioja,2023-11-27
+874,Atilio,Castillo,24.0,1,Murcia,2024-05-02
+875,Jordán,null,36.0,F,Cádiz,2023-06-01
+876,Marita,null,38.0,M,null,2024-12-12
+877,León,Barberá,32.0,M,Albacete,2022-11-05
+878,Trinidad,Marti,35.0,M,Barcelona,2023-12-11
+879,Felisa,Pinto,40.0,M,Ávila,2024-04-30
+880,Débora,Jove,22.0,F,null,null
+881,María Pilar,Nogués,34.0,F,Jaén,2023-12-03
+882,Esteban,Colom,33.0,F,Guadalajara,2023-04-24
+883,Jerónimo,Morante,40.0,M,Segovia,2024-12-20
+884,null,Nadal,21.0,F,Melilla,2023-10-23
+885,Fabio,Sosa,27.0,F,Las Palmas,null
+886,Augusto,Uribe,null,F,null,2023-09-17
+887,null,null,27.0,F,Cantabria,2022-11-14
+888,Julieta,Franch,34.0,F,Sevilla,2023-10-05
+889,Mamen,null,37.0,M,Teruel,2022-08-12
+890,null,Ortuño,26.0,M,Huelva,2022-06-11
+891,Nazaret,Vilaplana,21.0,M,La Rioja,2023-02-27
+892,María Del Carmen,null,24.0,M,Lugo,2023-05-10
+893,Candelaria,null,25.0,F,null,2022-07-19
+894,Roxana,Franco,18.0,M,Santa Cruz de Tenerife,2024-09-05
+895,Nicanor,Losa,21.0,F,Palencia,2023-04-14
+896,null,Casado,23.0,1,Lugo,2023-05-18
+897,Maricela,null,28.0,M,null,2024-04-02
+898,Hilda,Moles,34.0,M,Burgos,2023-11-01
+899,Lope,null,2.0,M,León,2023-12-13
+900,Tere,Badía,20.0,M,Madrid,2023-05-21
+901,Román,Tirado,31.0,F,null,2022-06-28
+902,José María,Amo,23.0,,Cuenca,2022-05-17
+903,Noelia,Roca,24.0,F,null,2022-06-09
+904,Erasmo,Céspedes,21.0,F,Valencia,2025-02-17
+905,Pacífica,Roldán,28.0,F,Zaragoza,2025-03-23
+906,Clarisa,Gárate,28.0,X,Toledo,1995-11-26
+907,null,null,35.0,F,Navarra,2023-03-26
+908,Hermenegildo,Roman,108.0,F,Málaga,2023-11-22
+909,Claudia,Rius,18.0,F,Burgos,2024-09-24
+910,Purificación,null,40.0,M,Zaragoza,2024-11-03
+911,Rosario,Guijarro,29.0,,Baleares,2024-05-05
+912,Vicente,Tomás,30.0,F,Badajoz,2024-03-15
+913,Rocío,Infante,39.0,M,null,2023-05-29
+914,null,Bonet,25.0,F,Murcia,2024-07-06
+915,Jaime,Sanjuan,26.0,F,null,2025-01-16
+916,Lidia,Oller,28.0,F,Cuenca,2024-06-20
+917,Maxi,Hurtado,25.0,,Zaragoza,2024-01-11
+918,Ciro,Alvarado,18.0,M,Huesca,2025-05-12
+919,null,Guzman,27.0,null,null,2022-09-28
+920,null,Gibert,26.0,F,Soria,2023-06-17
+921,null,Torres,20.0,F,Soria,2022-08-08
+922,Fabio,null,-4.0,M,Valencia,1997-11-22
+923,null,Correa,21.0,M,Madrid,2023-08-25
+924,null,Torralba,37.0,M,Murcia,2025-01-05
+925,Dan,Ramón,38.0,M,Barcelona,2022-12-20
+926,Teresa,Batlle,20.0,M,Palencia,2022-09-10
+927,Vito,Isern,37.0,M,Segovia,null
+928,Luis,Dominguez,29.0,M,Castellón,2024-09-08
+929,Trinidad,Simó,null,M,Murcia,2025-02-12
+930,Máxima,Conesa,28.0,F,Ourense,2025-02-26
+931,María Dolores,Mínguez,28.0,F,Cantabria,2025-04-19
+932,Severino,Ibañez,18.0,M,Valladolid,2025-02-19
+933,Horacio,Pujadas,30.0,M,Cáceres,null
+934,null,null,27.0,F,null,null
+935,Jessica,Esparza,23.0,M,Segovia,2002-08-01
+936,Chus,null,30.0,M,Cáceres,2022-09-15
+937,Teófila,Serrano,23.0,F,Badajoz,null
+938,Espiridión,Serna,35.0,F,Ciudad,2023-09-01
+939,Nacho,Ojeda,36.0,F,Cáceres,2022-05-31
+940,null,Lobato,34.0,F,Valencia,1996-05-10
+941,Manolo,Olmedo,30.0,F,Málaga,2023-12-21
+942,Borja,Lloret,40.0,F,Cuenca,2023-05-31
+943,Paz,Lloret,2.0,F,Cáceres,2023-04-05
+944,Salvador,Elorza,26.0,M,Santa Cruz de Tenerife,2024-03-07
+945,Olivia,Carreño,5.0,F,La Rioja,2024-02-21
+946,Gonzalo,null,26.0,F,Segovia,2025-02-16
+947,Godofredo,Valenciano,null,F,null,2022-11-15
+948,Noelia,Andres,39.0,M,Ciudad,2024-12-13
+949,Guiomar,Rodriguez,26.0,1,Girona,2025-03-26
+950,Amanda,Granados,38.0,X,Toledo,2023-07-05
+951,Mauricio,Camacho,36.0,F,Zamora,2024-02-10
+952,Delia,Santiago,40.0,F,Sevilla,2025-02-05
+953,Araceli,Cadenas,18.0,F,Cantabria,2024-11-13
+954,Jose Carlos,Reyes,35.0,M,Las Palmas,null
+955,Soledad,Julián,38.0,F,Toledo,2023-03-08
+956,Maribel,Palau,21.0,F,Guipúzcoa,2024-08-31
+957,Aureliano,Pi,40.0,M,Sevilla,1996-06-10
+958,Jessica,Nogués,20.0,F,Pontevedra,2023-03-02
+959,Ángeles,Cabanillas,21.0,F,Murcia,null
+960,Albina,Vilalta,40.0,M,Segovia,2024-10-03
+961,Rebeca,Coello,26.0,M,Zaragoza,2023-01-12
+962,Cebrián,Manso,36.0,F,Ourense,null
+963,Teodosio,Prat,40.0,F,Vizcaya,2022-09-16
+964,Sebastian,Herranz,37.0,F,Santa Cruz de Tenerife,2024-06-02
+965,Guadalupe,null,19.0,M,Soria,2023-10-13
+966,Jordana,Pintor,24.0,F,Girona,2024-06-22
+967,Glauco,null,28.0,M,Málaga,2022-08-19
+968,Vinicio,null,32.0,F,Burgos,2023-09-11
+969,null,Valverde,28.0,F,Ávila,null
+970,Felisa,Checa,26.0,M,Ourense,2023-04-17
+971,Fulgencio,Morante,23.0,null,Navarra,2023-08-28
+972,Emiliano,Lopez,108.0,null,Alicante,2024-10-25
+973,null,null,24.0,F,Albacete,2023-02-10
+974,null,null,null,M,Asturias,2024-04-12
+975,Augusto,Mata,21.0,F,Valladolid,2022-10-13
+976,Cristóbal,Elorza,21.0,M,Huesca,2024-05-10
+977,Arturo,Polo,32.0,F,Segovia,2022-06-05
+978,null,Roldan,37.0,M,Jaén,2024-08-09
+979,Salvador,Pelayo,21.0,F,Navarra,2022-12-18
+980,Rafaela,Clavero,40.0,F,null,2000-12-01
+981,Adelina,Leal,36.0,M,Salamanca,2025-05-09
+982,Javier,Menendez,25.0,M,Burgos,2025-03-28
+983,Azahar,Machado,25.0,F,Vizcaya,2024-04-26
+984,Geraldo,Vara,34.0,F,Girona,2025-02-26
+985,null,Galindo,25.0,M,Zaragoza,2023-06-22
+986,Narcisa,Prat,37.0,F,Huelva,2024-04-01
+987,null,Losada,19.0,M,Las Palmas,2023-11-17
+988,Benito,Anguita,24.0,M,Castellón,2023-05-10
+989,Azeneth,Chamorro,37.0,F,Valladolid,2024-05-22
+990,Kike,Echeverría,29.0,M,Valencia,2022-05-18
+991,Benito,Solera,33.0,,Segovia,2003-06-25
+992,Horacio,Navas,26.0,F,Sevilla,2023-02-16
+993,Cornelio,null,33.0,M,null,2024-11-20
+994,Felipe,Cózar,31.0,F,Málaga,2024-12-28
+995,Encarnacion,null,21.0,M,Palencia,2023-02-18
+996,Alexandra,Capdevila,34.0,F,Girona,2024-05-17
+997,Gloria,Cárdenas,19.0,F,Sevilla,2025-03-09
+998,Joan,Almansa,32.0,M,Albacete,2025-04-10
+999,Remedios,Salvà,-3.0,M,Burgos,2023-05-24
+1000,Eufemia,Pozo,27.0,F,Baleares,2022-08-09
