@@ -13,7 +13,7 @@ for file in csv_files:
 
 fake = Faker('es_ES')
 
-def should_introduce_error(error_probability=0.1):
+def should_introduce_error(error_probability=0.05):
     """Return True with the specified probability."""
     return random.random() < error_probability
 
@@ -65,7 +65,7 @@ for estudiante in df_estudiantes['id_estudiante']:
         nota_record = {
             'id_estudiante': estudiante if not should_introduce_error() else random.choice([None, -100, 9999]),
             'id_asignatura': asignatura if not should_introduce_error() else random.choice([None, -5, 999]),
-            'nota': round(np.random.normal(loc=6.5, scale=1.5), 2),
+            'nota': round(random.uniform(0, 10), 1) if not should_introduce_error() else random.choice([None, -100, 9999]),
             'convocatoria': random.choice(convocatorias) if not should_introduce_error() else 
                            random.choice([None, '', 'Desconocida', 123]),
             'fecha_examen': fake.date_between(start_date='-2y', end_date='today') if not should_introduce_error() else
@@ -73,5 +73,5 @@ for estudiante in df_estudiantes['id_estudiante']:
         }
         notas.append(nota_record)
 df_notas = pd.DataFrame(notas)
-df_notas['nota'] = df_notas['nota'].apply(lambda x: max(0, min(10, x)) if pd.notna(x) and isinstance(x, (int, float)) else x)
+df_notas['nota'] = df_notas['nota'].apply(lambda x: round(max(0, min(10, x)), 1) if pd.notna(x) and isinstance(x, (int, float)) else x)
 df_notas.to_csv('notas.csv', index=False)
