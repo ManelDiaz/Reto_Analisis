@@ -12,8 +12,6 @@ for file in csv_files:
         print(f"Deleted existing {file}")
 
 fake = Faker('es_ES')
-np.random.seed(42)
-random.seed(42)
 
 def should_introduce_error(error_probability=0.1):
     """Return True with the specified probability."""
@@ -42,7 +40,7 @@ df_estudiantes.fillna('null', inplace=True)
 df_estudiantes.to_csv('estudiantes.csv', index=False)
 
 # Generación de asignaturas con Faker
-num_asignaturas = 10
+num_asignaturas = 30
 departamentos = ['Ciencias', 'Humanidades', 'Ingeniería', 'Ciencias Sociales', 'Idiomas']
 asignaturas = []
 for i in range(1, num_asignaturas + 1):
@@ -53,7 +51,6 @@ for i in range(1, num_asignaturas + 1):
         'creditos': random.randint(3, 6) if not should_introduce_error() else random.choice([None, -1, 0, 100])
     }
     asignaturas.append(asignatura)
-
 df_asignaturas = pd.DataFrame(asignaturas)
 df_asignaturas.fillna('null', inplace=True)
 df_asignaturas.to_csv('asignaturas.csv', index=False)
@@ -68,15 +65,13 @@ for estudiante in df_estudiantes['id_estudiante']:
         nota_record = {
             'id_estudiante': estudiante if not should_introduce_error() else random.choice([None, -100, 9999]),
             'id_asignatura': asignatura if not should_introduce_error() else random.choice([None, -5, 999]),
-            'nota': round(np.random.normal(loc=6.5, scale=1.5), 2) if not should_introduce_error() else 
-                   random.choice([None, -20, 15, 999]),
+            'nota': round(np.random.normal(loc=6.5, scale=1.5), 2),
             'convocatoria': random.choice(convocatorias) if not should_introduce_error() else 
                            random.choice([None, '', 'Desconocida', 123]),
             'fecha_examen': fake.date_between(start_date='-2y', end_date='today') if not should_introduce_error() else
                            random.choice([None, fake.date_between(start_date='-30y', end_date='-20y')])
         }
         notas.append(nota_record)
-
 df_notas = pd.DataFrame(notas)
 df_notas['nota'] = df_notas['nota'].apply(lambda x: max(0, min(10, x)) if pd.notna(x) and isinstance(x, (int, float)) else x)
 df_notas.to_csv('notas.csv', index=False)
