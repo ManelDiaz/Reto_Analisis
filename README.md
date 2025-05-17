@@ -20,3 +20,17 @@
 - Robustecer la limpieza y validación de datos para detectar y eliminar valores atípicos y errores.
 - Automatizar la generación de reportes y visualizaciones interactivas para facilitar el análisis iterativo.
 - Integrar tests unitarios y validación continua para asegurar la calidad en cada paso del proceso.
+
+## Alternativas posibles
+- Podríamos haber usado otras librerías de python, como:
+  - Para análisis exploratorio de datos:
+    - pandas-profiling
+    - Sweetviz
+    - D-Tale
+  - Para visualización interactiva:
+    - Plotly
+    - Bokeh
+    - Altair
+  - Para manejo de grandes volúmenes:
+    - Dask
+    - Vaex
